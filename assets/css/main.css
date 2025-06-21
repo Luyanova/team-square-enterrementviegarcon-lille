@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Overpass';
+  src: url('fonts/Overpass-VariableFont_wght.ttf') format('truetype-variations');
+}
+
+@theme {
+  --color-primary-500: #EC6730;
+  --color-primary-800: #D95D2B;
+
+  --color-grey-50: #faf9fa;
+  --color-grey-100: #f3f3f4;
+  --color-grey-200: #dbdbdb;
+  --color-grey-400: #acadb2;
+  --color-grey-500: #121010;
+  --color-grey-600: #60626e;
+  --color-grey-700: #303030;
+  --color-grey-900: #0b0c11;
+}
+
+p {
+  @apply font-['Overpass'] text-[16px] font-normal leading-[1.55] tracking-[0px];
+}
+
+.cta {
+  @apply font-['Overpass'] text-[16px] font-semibold leading-[1.55] tracking-[-0.32px];
+}
+
+h1 {
+  @apply font-['Overpass'] text-[64px] font-extrabold leading-[107%] tracking-[-4.48px];
+}
+
+h2 {
+  @apply font-['Overpass'] text-[44px] font-extrabold leading-[44px] tracking-[-2.64px];
+}
+
+h3 {
+  @apply font-['Overpass'] text-[24px] font-extrabold leading-[107%] tracking-[-1.2px];
+}
+
+h4 {
+  @apply font-['Overpass'] text-[20px] font-bold leading-[130%] tracking-[-0.8px];
+}
+
+.text-small {
+  @apply font-['Overpass'] text-[14px] font-normal leading-[14px];
+}
+
+.hover-underline {
+  @apply hover:underline;
+}
