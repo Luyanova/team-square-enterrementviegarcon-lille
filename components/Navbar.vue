@@ -1,5 +1,11 @@
 <template>
-    <nav class="navbar px-4 py-2 bg-grey-50 border-b border-grey-200 lg:px-16">
+            <div class="fixed top-0 left-0 right-0 z-50">
+            <NuxtLink to="https://team-square.fr/reservation-4escape" class="text-grey-50 text-sm underline font-semibold bg-primary-500 text-center block">
+                -20% en ligne, avec le code TS20 ! Offre non cumulable
+            </NuxtLink>
+        </div>
+    <nav class="top-0 left-0 right-0 z-50 navbar px-4 py-2  pt-8 bg-grey-50 border-b border-grey-200 lg:px-16">
+
         <div class="flex items-center justify-between">
             <NuxtLink to="/">
                 <Logo />
@@ -9,7 +15,7 @@
                 <ButtonSecondary to="/contact">
                     Contact
                 </ButtonSecondary>
-                <ButtonPrimary to="/booking">
+                <ButtonPrimary to="https://team-square.fr/activiteTeamSquare/paintball/">
                     Réserver
                 </ButtonPrimary>
             </div>
@@ -47,8 +53,8 @@
                 @click.self="isOpen = false"
             >
                 <NuxtLink to="/" class="text-grey-900 text-2xl font-bold" @click="isOpen = false">Accueil</NuxtLink>
-                <NuxtLink to="#contact" class="text-grey-900 text-2xl font-bold" @click="isOpen = false">Contact</NuxtLink>
-                <NuxtLink to="/booking" class="text-grey-900 text-2xl font-bold" @click="isOpen = false">Réserver</NuxtLink>
+                <NuxtLink to="/contact" class="text-grey-900 text-2xl font-bold" @click="isOpen = false">Contact</NuxtLink>
+                <NuxtLink to="https://team-square.fr/reservation-4escape/#/" class="text-grey-900 text-2xl font-bold" @click="isOpen = false">Réserver</NuxtLink>
             </div>
         </transition>
     </nav>

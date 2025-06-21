@@ -1,10 +1,11 @@
 <template>
   <div class="px-4 lg:px-48">
     <HeroSection />
-    <GrowthSection />
+    <InformationSection :data="data" />
     <FaqSection />
     <BlogSection />
     <CtaSection />
+    <GrowthSection />
   </div>
 </template>
 

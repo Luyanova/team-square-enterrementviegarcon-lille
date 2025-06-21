@@ -13,10 +13,10 @@
         <div class="flex flex-col gap-4">
           <div class="flex flex-col gap-4 sm:flex-row">
 
-              <ButtonPrimary to="/booking">Réserver l'activité</ButtonPrimary>
+              <ButtonPrimary to="https://team-square.fr/reservation-4escape/">Réserver l'activité</ButtonPrimary>
 
             <div>
-              <NuxtLink v-if="data?.moreLink" :to="data.moreLink" target="_blank" external>
+              <NuxtLink v-if="data?.moreLink" :to="data.moreLink" external>
                 <ButtonSecondary>En savoir plus</ButtonSecondary>
               </NuxtLink>
             </div>
@@ -39,7 +39,7 @@
       <NuxtImg 
         v-if="data?.image"
         :src="data.image" 
-        class="inset-0 w-full h-full object-cover rounded-sm lg:w-2/3"
+        class="inset-0 w-full h-full object-cover rounded-sm lg:w-1/2"
         loading="lazy"
         format="webp"
         quality="70"

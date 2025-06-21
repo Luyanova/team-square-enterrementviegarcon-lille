@@ -2,7 +2,7 @@
 title: "L'Aventure Paintball : Plus qu'un Simple Jeu"
 description: "Découvrez pourquoi le paintball est l'activité idéale pour renforcer l'esprit d'équipe et vivre des sensations fortes en pleine nature."
 date: "2024-07-20"
-coverImage: "/img/paintballCover.png"
+coverImage: "/img/paintballCover.jpg"
 summarySeo: "Plongez dans l'univers du paintball et découvrez une activité de team building excitante. Idéal pour les groupes et les entreprises en quête d'adrénaline."
 ---
 

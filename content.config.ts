@@ -25,9 +25,24 @@ export default defineContentConfig({
         CtaTitle: z.string().optional(),
         CtaText: z.string().optional(),
         CtaButton: z.string().optional(),
-        CtaLink: z.string().url().optional(),
         footerTitle: z.string().optional(),
-        footerText: z.string().optional()
+        footerText: z.string().optional(),
+        informationTitle: z.string().optional(),
+        numberPlayers: z.string().or(z.number()).optional(),
+        minimalAge: z.string().or(z.number()).optional(),
+        informationDescription: z.string().optional(),
+        priceGrid: z.array(z.array(z.string())).optional(),
+        outside: z.boolean().optional(),
+        outsideText: z.string().optional(),
+        imageSectionTitle: z.string().optional(),
+        galleryImages: z.array(z.object({
+          path: z.string(),
+          legend: z.string()
+        })).optional(),
+        conditionsTitle: z.string().optional(),
+        conditionsItems: z.array(z.string()).optional(),
+        optionsTitle: z.string().optional(),
+        optionsItems: z.array(z.string()).optional()
       })
     }),
     faqs: defineCollection({

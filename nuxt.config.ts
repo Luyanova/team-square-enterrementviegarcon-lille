@@ -10,9 +10,10 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxtjs/seo',
     '@nuxtjs/sitemap',
+    '@nuxt/icon',
   ],
   site: {
-    url: 'https://paintballhdf.fr',
+    url: 'https://paintball-hautdefrance.fr',
   },
   vite: {
     plugins: [

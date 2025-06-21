@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="flex flex-col gap-12 py-12 items-center">
+    <div class="flex flex-col gap-12 py-36 items-center">
       <h2 class="text-grey-900">FAQs</h2>
       <div class="flex flex-col w-full max-w-3xl">
         <div v-for="(faq, index) in faqs" :key="index" class="border-t border-grey-200 w-full">
