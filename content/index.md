@@ -2,7 +2,7 @@
 title: Expérience de paintball en Haut-De-France
 titleSeo: Le meilleur paintball des Hauts-de-France - Team Square
 descriptionSeo: Découvrez nos terrains de paintball uniques en Hauts-de-France. Idéal pour les groupes, les familles et le teambuilding. Réservez votre expérience dès aujourd'hui !
-description: Biscuit donut pie pastry sweet roll jelly beans. Gummi bears muffin pie cheesecake chupa chups jelly-o. Chocolate cake candy canes marzipan biscuit bonbon cheesecake. Gingerbread sweet roll gummies carrot cake icing dragée oat
+description: Le Paintball est un jeu où les joueurs, équipés de lanceurs de billes de peinture, s'affrontent en équipes de 3 à 15 sur des terrains extérieurs. Encadrée par un arbitre, l'activité propose divers scénarios, et est sans danger si les règles de sécurité sont respectées.
 moreLink: https://team-square.fr/activiteTeamSquare/paintball/
 growthInfo1: '2017'
 growthInfo2: '21'
