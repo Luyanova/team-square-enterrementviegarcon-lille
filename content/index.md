@@ -6,7 +6,7 @@ description: Le Paintball est un jeu où les joueurs, équipés de lanceurs de b
 moreLink: https://team-square.fr/activiteTeamSquare/paintball/
 growthInfo1: '2017'
 growthInfo2: '21'
-growthInfo3: '+50'
+growthInfo3: '+40'
 growthInfo4: '+60 000m²'
 growthTitle1: 'Année de fondation'
 growthTitle2: 'Activités crées'
