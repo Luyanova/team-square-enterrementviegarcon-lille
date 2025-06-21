@@ -1,5 +1,5 @@
 ---
-title: Expérience de paintball en Haut-De-France
+title: Expérience de paintball en Hauts-de-France
 titleSeo: Le meilleur paintball des Hauts-de-France - Team Square
 descriptionSeo: Découvrez nos terrains de paintball uniques en Hauts-de-France. Idéal pour les groupes, les familles et le teambuilding. Réservez votre expérience dès aujourd'hui !
 description: Le paintball est une activité sportive qui oppose deux équipes de 3 à 15 joueurs, armés de lanceurs projetant des billes de peinture. Les parties se déroulent en extérieur, sur des terrains aménagés, et sont supervisées par un arbitre. Plusieurs scénarios de jeu sont proposés pour varier les défis. L'activité reste sécurisée, à condition de suivre les consignes de sécurité.
@@ -14,12 +14,12 @@ growthTitle3: 'Collaborateurs'
 growthTitle4: "D'espaces d'activités"
 growthMainTitle: "Une croissance fulgurante portée par l'audace"
 growthText: "Implanté à Hénin-Beaumont en 2017, Team Square n'a eu de cesse d'enrichir son offre pour répondre aux attentes toujours renouvelées de sa clientèle."
-image: /img/paintballCover.jpg
+image: /img/paint3.jpeg
 CtaTitle: 'Prêt à passer une session de paintball inoubliable ?'
 CtaText: "Contactez-nous pour obtenir plus d'informations sur le paintball à Team Square Hénin-Beaumont."
 CtaButton: "Réserver le paintball"
 footerTitle: "Envie de faire plus que du paintball ?"
-footerText: "Découvrez nos autres activités et services, complémentaires au paintball. À Hénin-Beaumont dans les Hauts-de-France."
+footerText: "Le paintball chez Team Square est bien plus qu’un simple jeu : c’est une véritable expérience immersive, pensée pour plonger les participants dans des scénarios palpitants, sur des terrains variés spécialement aménagés pour l’action. Que vous soyez débutant ou joueur confirmé, chaque partie vous garantit une montée d’adrénaline unique dans un cadre sécurisé et encadré."
 informationTitle: Informations Paintball
 numberPlayers: '6'
 minimalAge: '14'
@@ -36,7 +36,7 @@ galleryImages:
     legend: "Le bus"
   - path: /img/paint5.jpeg
     legend: "Les containers"
-  - path: /img/paint3.jpeg
+  - path: /img/paintballCover.jpg
     legend: "La forêt"
 conditionsTitle: "Conditions"
 conditionsItems:

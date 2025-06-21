@@ -2,7 +2,7 @@
 title: "L'Équipement Essentiel pour une Journée Réussie"
 description: "Ne laissez rien au hasard. Voici la checklist complète de l'équipement à prévoir pour garantir votre confort et votre sécurité lors de votre journée paintball."
 date: "2024-07-30"
-coverImage: "/img/paintballCover.jpg"
+coverImage: "/img/paint4.jpg"
 summarySeo: "Préparez votre journée paintball comme un pro. Notre guide complet sur l'équipement essentiel pour un maximum de fun et de sécurité sur le terrain."
 ---
 

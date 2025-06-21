@@ -2,7 +2,7 @@
 title: "Stratégies Gagnantes pour Votre Prochaine Partie"
 description: "De la communication à la prise de position, nous vous donnons les meilleures astuces pour dominer le terrain et mener votre équipe à la victoire."
 date: "2024-07-25"
-coverImage: "/img/paintballCover.jpg"
+coverImage: "/img/paint3.jpeg"
 summarySeo: "Améliorez votre jeu avec nos stratégies de paintball. Apprenez les secrets de la communication et du positionnement pour assurer la victoire de votre équipe."
 ---
 

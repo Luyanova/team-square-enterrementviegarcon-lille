@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-grey-900 w-full py-20 px-4 lg:px-16">
+  <div class="bg-grey-900 w-full py-20 px-4 lg:px-48">
     <div class="flex flex-col gap-12 mb-20 lg:w-4/5 lg:justify-between">
       <div class="flex flex-col gap-2 mb-4">
         <h2 class="text-grey-100">{{ data?.footerTitle }}</h2>

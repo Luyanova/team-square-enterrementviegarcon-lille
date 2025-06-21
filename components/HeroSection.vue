@@ -31,7 +31,7 @@
               <HalfStarIcon />
               <p class="text-[#FBBC04] pl-1 leading-none">4,6</p>
             </div>
-            <p class="text-grey-600">+1500 avis sur <NuxtLink to="https://www.google.com/search?hl=fr&gl=FR&q=Team%20Square%20Avis&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxIxNDQwNLUwNDQxNjUwtjAyNbEwM9jAyPiKUSAkNTFXIbiwNLEoVcGxLLN4ESuGEAA5EGsYQQAAAA&rldimm=11015811435038254860&tbm=lcl&cs=1&sa=X&ved=0CCAQ9fQKKABqFwoTCMi20r7M-I0DFQAAAAAdAAAAABAG&biw=777&bih=1039&dpr=1#lkt=LocalPoiReviews" target="_blank" external class="underline">Google</NuxtLink></p>
+            <p class="text-grey-600">+2000 avis sur <NuxtLink to="https://www.google.com/search?hl=fr&gl=FR&q=Team%20Square%20Avis&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxIxNDQwNLUwNDQxNjUwtjAyNbEwM9jAyPiKUSAkNTFXIbiwNLEoVcGxLLN4ESuGEAA5EGsYQQAAAA&rldimm=11015811435038254860&tbm=lcl&cs=1&sa=X&ved=0CCAQ9fQKKABqFwoTCMi20r7M-I0DFQAAAAAdAAAAABAG&biw=777&bih=1039&dpr=1#lkt=LocalPoiReviews" target="_blank" external class="underline">Google</NuxtLink></p>
           </div>
         </div>
       </div>
