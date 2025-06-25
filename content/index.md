@@ -1,5 +1,5 @@
 ---
-title: Expérience de paintball en Hauts-de-FranceTEST
+title: Expérience de paintball en Hauts-de-France
 titleSeo: Le meilleur paintball des Hauts-de-France - Team Square
 descriptionSeo: Découvrez nos terrains de paintball uniques en Hauts-de-France. Idéal pour les groupes, les familles et le teambuilding. Réservez votre expérience dès aujourd'hui !
 description: Le paintball est une activité sportive qui oppose deux équipes de 3 à 15 joueurs, armés de lanceurs projetant des billes de peinture. Les parties se déroulent en extérieur, sur des terrains aménagés, et sont supervisées par un arbitre. Plusieurs scénarios de jeu sont proposés pour varier les défis. L'activité reste sécurisée, à condition de suivre les consignes de sécurité.
