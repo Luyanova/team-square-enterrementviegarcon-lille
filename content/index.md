@@ -61,7 +61,7 @@ galleryImages:
     legend: La forêt
   - path: /img/silo.png
     legend: Le silo
-    - path: /img/chantier.png
+  - path: /img/chantier.png
     legend: Le chantier
 conditionsTitle: 'Modalités de participation'
 conditionsItems:
