@@ -36,7 +36,7 @@ galleryImages:
     legend: "Le bus"
   - path: /img/paint5.jpeg
     legend: "Les containers"
-  - path: /img/paintballCover.jpg
+  - path: /img/paint6.jpg
     legend: "La forêt"
 conditionsTitle: "Conditions"
 conditionsItems:

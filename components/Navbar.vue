@@ -15,7 +15,7 @@
                 <ButtonSecondary to="/contact">
                     Contact
                 </ButtonSecondary>
-                <ButtonPrimary to="https://team-square.fr/activiteTeamSquare/paintball/">
+                <ButtonPrimary to="https://team-square.fr/reservation-4escape/">
                     Réserver
                 </ButtonPrimary>
             </div>
