@@ -59,6 +59,10 @@ galleryImages:
     legend: Les containers
   - path: /img/paint6.jpg
     legend: La forêt
+  - path: /img/silo.png
+    legend: Le silo
+    - path: /img/chantier.png
+    legend: Le chantier
 conditionsTitle: 'Modalités de participation'
 conditionsItems:
   - 6 joueurs minimum
