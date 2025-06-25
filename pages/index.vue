@@ -5,7 +5,6 @@
     <FaqSection />
     <BlogSection />
     <CtaSection />
-    <GrowthSection />
   </div>
 </template>
 

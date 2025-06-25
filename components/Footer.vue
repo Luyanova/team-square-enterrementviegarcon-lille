@@ -67,7 +67,7 @@
     <div class="flex flex-col gap-4">
         <p class="text-grey-100 !font-bold">Contact</p>
         <NuxtLink to="tel:0374830202" class="text-grey-100 hover-underline text-small">03 74 83 02 02</NuxtLink>
-        <NuxtLink to="/contact" class="text-grey-100 hover-underline text-small">En ligne</NuxtLink>
+        <NuxtLink to="/contact" class="text-grey-100 hover-underline text-small">Nous contacter</NuxtLink>
         <NuxtLink to="https://g.co/kgs/fk2V2Sb" class="text-grey-100 hover-underline text-small">3 Chemin de Bois Bernard,<br> 62110 Hénin-Beaumont</NuxtLink>
       </div>
 </div>

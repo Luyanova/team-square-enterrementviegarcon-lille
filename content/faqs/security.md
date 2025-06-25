@@ -1,5 +1,5 @@
 ---
-question: Quelles sont les mesures de sécurité prises pour le Paintball ?
-answer: Les mesures de sécurité incluent le port obligatoire de masques, l'utilisation de lanceurs régulés ainsi qu'un briefing de sécurité avant de commencer à jouer. En effet, un briefing complet est présenté aux joueurs avant toute session, par un animateur ou en vidéo. Ce briefing inclut toutes les règles de sécurités à respecter scrupuleusement (comme le port du masque dans toutes les aires de jeux et la mise en place du bouchon de canon avant de sortir des terrains de jeux).
+question: Quelles sont les règles de sécurité en vigueur pour le Paintball ?
+answer: La sécurité est notre priorité. Elle comprend le port obligatoire du masque, des lanceurs conformes et un briefing de sécurité avant chaque partie. Un animateur ou une vidéo explique en détail toutes les consignes à respecter, comme le port du masque dans les zones de jeu et l'utilisation du bouchon de canon en dehors des terrains.
 position: 9
 --- 

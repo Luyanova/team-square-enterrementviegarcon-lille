@@ -1,5 +1,5 @@
 ---
-question: Le Paintball est-il douloureux ?
-answer: La douleur ressentie peut varier selon la distance de tir et les vêtements portés. Cependant, nous utilisons des billes de paintball de calibre 0,50, conçues pour se briser à l'impact en minimisant la douleur.
+question: Est-ce que le Paintball fait mal ?
+answer: La sensation peut différer selon la distance de tir et l'épaisseur des vêtements. Nous utilisons des billes de calibre .50, qui sont prévues pour éclater à l'impact et réduire la sensation de douleur.
 position: 6
 --- 

@@ -1,9 +1,15 @@
 ---
-title: "L'Équipement Essentiel pour une Journée Réussie"
-description: "Ne laissez rien au hasard. Voici la checklist complète de l'équipement à prévoir pour garantir votre confort et votre sécurité lors de votre journée paintball."
+title: "L'Équipement Indispensable pour une Expérience Paintball Parfaite"
+description: >-
+  Ne négligez aucun détail. Voici la liste exhaustive du matériel à emporter
+  pour assurer votre bien-être et votre protection durant votre session de
+  paintball.
 date: "2024-07-30"
 coverImage: "/img/paint4.jpg"
-summarySeo: "Préparez votre journée paintball comme un pro. Notre guide complet sur l'équipement essentiel pour un maximum de fun et de sécurité sur le terrain."
+summarySeo: >-
+  Organisez votre session de paintball comme un expert. Notre guide détaillé
+  sur le matériel nécessaire pour un divertissement et une sécurité optimaux sur
+  le terrain.
 ---
 
-Pour profiter pleinement de votre expérience de paintball en toute sécurité, un bon équipement est indispensable. Chez Team Square, nous vous fournissons le matériel de base : un lanceur de billes et un masque de protection, qui doit impérativement être porté sur les terrains. Nous vous conseillons de porter des vêtements confortables que vous ne craignez pas de salir, même si la peinture est lavable. Des chaussures de sport ou de randonnée sont également recommandées pour une bonne adhérence. Pour une protection supplémentaire, une combinaison peut être louée sur place. Pensez à l'essentiel, et nous nous occupons du reste pour que vous passiez un moment inoubliable ! 
+Afin de vivre une expérience de paintball sécurisée et agréable, il est crucial d'être bien équipé. Chez Team Square, l'équipement fondamental vous est fourni : un lanceur et un masque de protection, dont le port est obligatoire sur toutes les aires de jeu. Il est recommandé de porter des tenues confortables ne craignant pas les taches, bien que la peinture soit lavable. Pour une meilleure stabilité, des chaussures de sport ou de marche sont conseillées. Une combinaison de protection est également disponible à la location pour plus de confort. Préparez vos affaires, et nous nous chargeons du reste pour une journée mémorable ! 

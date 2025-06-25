@@ -1,5 +1,5 @@
 ---
-question: Peut-on jouer au Paintball par tous les temps ?
-answer: Le paintball se joue par tous les temps, mais en cas de conditions météorologiques extrêmes, nous pourrions remettre votre session pour assurer la sécurité de votre groupe ou vous proposer si le planning le permet, une autre activité en intérieur, dans notre complexe.
+question: Le Paintball est-il praticable par tous les temps ?
+answer: Le paintball peut se jouer sous différentes conditions météo. Toutefois, en cas de temps extrême, nous pourrions être amenés à reporter votre partie pour garantir la sécurité de tous, ou vous proposer une activité en intérieur si notre planning le permet.
 position: 10
 --- 

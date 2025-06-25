@@ -1,5 +1,5 @@
 ---
-question: Peut-on réserver le Paintball pour des événements privés comme des anniversaires ou des enterrements de vie de célibataire ?
-answer: Oui, le paintball est disponible en pack pour les fêtes d'anniversaire, les enterrements de vie de garçon/fille, ou autres événements de groupe. Voir nos offres.
+question: Le paintball peut-il être réservé pour des occasions spéciales comme des anniversaires ou des EVG/EVJF ?
+answer: Absolument, nous proposons des forfaits paintball pour les anniversaires, les enterrements de vie de célibataire et autres célébrations de groupe. Consultez nos différentes offres.
 position: 7
 --- 

@@ -1,5 +1,5 @@
 ---
-question: Comment réserver ?
-answer: Pour réserver, il vous suffit de cliquer sur le bouton "Réserver l'activité" et de suivre les instructions. Vous pouvez aussi nous appeler directement.
+question: Quelle est la procédure de réservation ?
+answer: Pour faire une réservation, cliquez simplement sur "Réserver l'activité" et laissez-vous guider. Vous avez également la possibilité de nous joindre par téléphone.
 position: 1
 --- 

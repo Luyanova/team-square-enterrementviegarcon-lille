@@ -1,5 +1,5 @@
 ---
-question: Y a-t-il des équipements spécifiques fournis ou à apporter pour jouer au Paintball à Team Square ?
-answer: Nous fournissons tout l'équipement nécessaire, y compris les masques et les lanceurs. Même si la peinture des billes de paintball est biodégradable et se nettoie en machine, il est conseillé de porter des vêtements confortables et auxquels vous ne tenez pas particulièrement. Une combinaison de protection pourra être achetée en option sur place, si vous le souhaitez.
+question: Faut-il apporter un équipement spécifique pour jouer au Paintball chez Team Square ?
+answer: Nous mettons à votre disposition tout le matériel requis, incluant les masques et les lanceurs. Bien que la peinture de nos billes soit biodégradable et lavable en machine, nous vous suggérons de porter des vêtements confortables et sans grande valeur. Une combinaison de protection est disponible à l'achat sur place en option.
 position: 5
 --- 
