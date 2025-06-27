@@ -1,5 +1,5 @@
 ---
-question: Quel est l'âge requis pour jouer au paintball ?
-answer: Pour participer à nos sessions de paintball, l'âge minimum est de 14 ans. Pour nos autres activités, nous vous invitons à consulter leurs pages respectives.
+question: Quel âge faut-il avoir pour participer à une session de paintball à Lille ?
+answer: L'accès à nos parties de paintball à Lille est réservé aux personnes âgées d'au moins 14 ans. Pour les autres activités, veuillez consulter les pages dédiées.
 position: 4
 --- 

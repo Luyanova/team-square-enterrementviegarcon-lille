@@ -1,5 +1,5 @@
 ---
-question: Est-ce que le Paintball fait mal ?
-answer: La sensation peut différer selon la distance de tir et l'épaisseur des vêtements. Nous utilisons des billes de calibre .50, qui sont prévues pour éclater à l'impact et réduire la sensation de douleur.
+question: Le paintball à Lille est-il douloureux ?
+answer: La sensation d'impact dépend de la distance et des vêtements portés. Nous utilisons des billes de calibre .50, conçues pour limiter la douleur à l'impact.
 position: 6
 --- 

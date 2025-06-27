@@ -1,5 +1,5 @@
 ---
-question: Le Paintball est-il praticable par tous les temps ?
-answer: Le paintball peut se jouer sous différentes conditions météo. Toutefois, en cas de temps extrême, nous pourrions être amenés à reporter votre partie pour garantir la sécurité de tous, ou vous proposer une activité en intérieur si notre planning le permet.
+question: Peut-on jouer au paintball à Lille par tous les temps ?
+answer: Nos terrains de paintball à Lille sont accessibles par la plupart des conditions météo. En cas de météo extrême, nous vous proposerons un report ou une solution alternative.
 position: 10
 --- 

@@ -1,5 +1,5 @@
 ---
-question: Quelle est la durée habituelle d'une partie de Paintball ?
-answer: Une partie de paintball dure généralement entre 60 et 120 minutes, en fonction de l'option ou du forfait que vous sélectionnez.
+question: Combien de temps dure une partie de paintball à Lille ?
+answer: Une session de paintball à Lille dure généralement entre 1h et 2h, selon la formule choisie.
 position: 8
 --- 

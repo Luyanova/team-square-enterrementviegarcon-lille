@@ -1,57 +1,42 @@
 ---
-title: Votre Aventure Paintball dans les Hauts-de-France
-titleSeo: 'Team Square : Le Paintball de Référence en Hauts-de-France'
+title: Vivez le Paintball à Lille comme Jamais Ailleurs
+titleSeo: 'Team Square Lille : Le Spot Incontournable du Paintball'
 descriptionSeo: >-
-  Explorez nos terrains de paintball exceptionnels en Hauts-de-France. Parfait
-  pour les sorties de groupe, les moments en famille et les séminaires
-  d'entreprise. Planifiez votre aventure maintenant !
+  Découvrez nos terrains de paintball à Lille, pensés pour les groupes, familles et entreprises. Réservez votre aventure urbaine dès aujourd'hui !
 description: >-
-  Le paintball est un sport d'équipe où deux groupes, allant de 3 à 15
-  participants, s'affrontent avec des lanceurs de billes de peinture. Les
-  matchs ont lieu en plein air sur des terrains spécialement conçus, sous la
-  surveillance d'un arbitre. Divers scénarios de jeu sont disponibles pour
-  pimenter les parties. La sécurité est garantie tant que les règles sont
-  respectées.
+  Le paintball à Lille, c'est l'affrontement de deux équipes de 3 à 15 joueurs équipés de lanceurs de billes de peinture, sur des terrains extérieurs aménagés et encadrés par un arbitre. Plusieurs scénarios originaux sont proposés pour pimenter chaque partie. La sécurité est assurée grâce à des règles strictes et un encadrement professionnel.
 moreLink: 'https://team-square.fr/activiteTeamSquare/paintball/'
 growthInfo1: '2017'
 growthInfo2: '21'
 growthInfo3: '+40'
 growthInfo4: "+60 000m²"
-growthTitle1: 'Année de fondation'
-growthTitle2: 'Activités crées'
-growthTitle3: 'Collaborateurs'
-growthTitle4: "D'espaces d'activités"
-growthMainTitle: "Une expansion rapide stimulée par l'innovation"
+growthTitle1: 'Ouverture à Lille'
+growthTitle2: 'Activités proposées'
+growthTitle3: 'Membres de l'équipe'
+growthTitle4: "Surface de jeu à Lille"
+growthMainTitle: "Une Croissance Portée par l'Esprit d'Innovation à Lille"
 growthText: >-
-  Depuis notre installation à Hénin-Beaumont en 2017, Team Square a
-  continuellement élargi sa gamme de services pour satisfaire les demandes
-  changeantes de notre clientèle.
+  Depuis notre arrivée à Lille en 2017, Team Square n'a cessé d'innover pour offrir des expériences de paintball toujours plus immersives et adaptées à tous les publics.
 image: /img/paint3.jpeg
-CtaTitle: 'Prêts pour une expérience de paintball mémorable ?'
+CtaTitle: 'Envie d'une session de paintball inoubliable à Lille ?'
 CtaText: >-
-  N'hésitez pas à nous contacter pour toute question sur nos sessions de
-  paintball à Team Square Hénin-Beaumont.
-CtaButton: 'Réserver une partie'
-footerTitle: 'Découvrez plus que le paintball'
+  Contactez-nous pour toute question sur nos offres de paintball à Lille ou pour organiser votre événement sur-mesure.
+CtaButton: 'Réserver à Lille'
+footerTitle: 'Bien plus que du paintball à Lille'
 footerText: >-
-  Chez Team Square, le paintball transcende le simple divertissement. C'est une
-  aventure immersive conçue pour vous plonger dans des scénarios captivants sur
-  des terrains variés et aménagés pour l'action. Novice ou expert, chaque
-  session est une promesse d'adrénaline dans un environnement sûr et supervisé.
-informationTitle: 'Informations sur le Paintball'
+  Chez Team Square Lille, le paintball devient une aventure urbaine unique. Plongez dans des scénarios originaux sur des terrains variés, adaptés à tous les niveaux. Que vous soyez débutant ou joueur confirmé, chaque session promet adrénaline et sécurité dans un cadre encadré par des pros.
+informationTitle: 'Infos Pratiques Paintball Lille'
 numberPlayers: '6'
 minimalAge: '14'
 informationDescription: >-
-  Le paintball chez Team Square vous offre une immersion totale sur des terrains
-  variés. Nous vous équipons de la tête aux pieds pour une partie sécurisée et
-  riche en émotions fortes.
+  Nos sessions de paintball à Lille vous plongent dans l'action sur des terrains variés. Nous fournissons tout l'équipement pour une expérience intense et sécurisée.
 priceGrid:
   - [60mins, 25€, 30€]
   - [90mins, 35€, 40€]
   - [120mins, 45€, 50€]
 outside: false
-outsideText: 'Activité disponible à domicile dès 1 204,50€.'
-imageSectionTitle: 'Découvrez nos terrains de paintball'
+outsideText: 'Animation paintball à domicile possible à partir de 1 204,50€.'
+imageSectionTitle: 'Nos terrains de paintball à Lille'
 galleryImages:
   - path: /img/paint1.jpg
     legend: Le bus
@@ -63,16 +48,15 @@ galleryImages:
     legend: Le silo
   - path: /img/chantier.png
     legend: Le chantier
-conditionsTitle: 'Modalités de participation'
+conditionsTitle: 'Conditions de participation à Lille'
 conditionsItems:
   - 6 joueurs minimum
   - À partir de 14 ans
   - >-
-    Déconseillée aux femmes enceintes et aux personnes ayant récemment subi une
-    opération chirurgicale
-optionsTitle: 'Nos options'
+    Déconseillé aux femmes enceintes et aux personnes ayant subi une intervention chirurgicale récente
+optionsTitle: 'Options disponibles à Lille'
 optionsItems:
-  - '100 billes supplémentaires à partir 8 €'
+  - '100 billes en supplément dès 8 €'
   - 'Combinaison à 5 €'
 ---
 

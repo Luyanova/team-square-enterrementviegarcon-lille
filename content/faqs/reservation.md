@@ -1,5 +1,5 @@
 ---
-question: Quelle est la procédure de réservation ?
-answer: Pour faire une réservation, cliquez simplement sur "Réserver l'activité" et laissez-vous guider. Vous avez également la possibilité de nous joindre par téléphone.
+question: Comment réserver une session de paintball à Lille ?
+answer: Pour réserver, cliquez sur "Réserver l'activité" sur notre site ou contactez-nous par téléphone pour un accompagnement personnalisé.
 position: 1
 --- 

@@ -1,5 +1,5 @@
 ---
-question: Faut-il apporter un équipement spécifique pour jouer au Paintball chez Team Square ?
-answer: Nous mettons à votre disposition tout le matériel requis, incluant les masques et les lanceurs. Bien que la peinture de nos billes soit biodégradable et lavable en machine, nous vous suggérons de porter des vêtements confortables et sans grande valeur. Une combinaison de protection est disponible à l'achat sur place en option.
+question: Dois-je venir avec mon propre équipement pour jouer au paintball à Lille ?
+answer: Tout l'équipement nécessaire (masques, lanceurs, billes) est fourni sur place. Nous conseillons de porter des vêtements confortables et peu fragiles. Une combinaison de protection peut être achetée sur place si besoin.
 position: 5
 --- 

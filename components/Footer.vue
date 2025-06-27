@@ -76,7 +76,7 @@
       <p class="text-grey-100 text-small">© 2025 Team Square. Tous droits réservés.</p>
       <div class="grid grid-cols-2 lg:grid-cols-3 gap-8 items-end">
         <NuxtLink to="/legal/cgv" class="text-grey-100 hover-underline text-small">CGV</NuxtLink>
-        <NuxtLink to="/legal/protection-donnees" class="text-grey-100 hover-underline text-small">Protections des données personelles</NuxtLink>
+        <NuxtLink to="/legal/protection-donnees" class="text-grey-100 hover-underline text-small">Protection des données personnelles</NuxtLink>
         <NuxtLink to="/legal/mentions-legales" class="text-grey-100 hover-underline text-small">Mentions légales</NuxtLink>
       </div>
     </div>
