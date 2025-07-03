@@ -1,9 +1,13 @@
 ---
 question: Quel est l’âge minimum pour jouer au paintball dans les environs de Lille ?
-answer: Pour participer à une partie de paintball aux alentours de Lille, il est
-  indispensable d’avoir au moins 14 ans. Cette condition d’âge vise à garantir
-  la sécurité de tous les joueurs. Pour toute information sur les autres
-  activités disponibles dans le voisinage, il est recommandé de consulter les
-  pages spécifiques à chaque animation
+answer: Pour participer à une partie de paintball dans les environs de Lille, il
+  faut impérativement avoir au moins 14 ans. Cette limite d’âge est mise en
+  place afin d’assurer la sécurité des joueurs, car le matériel utilisé
+  nécessite un certain niveau de maturité. Avant chaque session, un briefing de
+  sécurité est systématiquement réalisé pour rappeler les consignes
+  essentielles. Pour les activités destinées aux plus jeunes, comme le Kidsball,
+  l’âge minimum est généralement plus bas, autour de 10 ans, avec un équipement
+  adapté. Il est conseillé de vérifier les conditions spécifiques pour chaque
+  activité proposée à proximité de Lille.
 position: 4
 ---
