@@ -22,7 +22,7 @@ Le paintball est bien plus qu’un simple jeu : c’est une véritable aventure 
 
 ### **Une offre d’activités inégalée dans le Nord**
 
-Lille Paintball ne se limite pas au paintball ! Profitez de **22 activités** sur place : réalité virtuelle, archery tag, bubble foot, laser tag, foot en salle, et bien plus encore. Idéal pour transformer une simple sortie en véritable journée multi-activités sans avoir à vous déplacer.
+Team Square ne se limite pas au paintball ! Profitez de **22 activités** sur place : réalité virtuelle, archery tag, bubble foot, laser tag, foot en salle, et bien plus encore. Idéal pour transformer une simple sortie en véritable journée multi-activités sans avoir à vous déplacer.
 
 ### **Les avantages Team Square à Hénin-Beaumont :**
 
