@@ -21,6 +21,7 @@
       <p class="text-grey-500">
         {{ data.informationDescription }}
       </p>
+      <ButtonPrimary to="https://team-square.fr/category/activites/">Voir toutes les activités</ButtonPrimary>
     </div>
     <div v-if="data.galleryImages && data.galleryImages.length > 0" class="border-t border-grey-400 h-[1px] " />
     <div class="flex flex-col gap-4">

@@ -21,4 +21,15 @@ export default defineNuxtConfig({
     ],
   },
   css: ['~/assets/css/main.css'],
+    content: {
+    preview: {
+      api: 'https://api.nuxt.studio',
+      gitInfo: {
+        name: 'team-square-paintball-lille',
+        owner: 'Luyanova',
+        url: 'https://github.com/Luyanova/team-square-paintball-lille'
+      }
+    }
+  }
+
 })
