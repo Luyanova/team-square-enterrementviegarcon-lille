@@ -38,4 +38,4 @@ Le paintball n’est pas réservé qu’aux adultes ! Dès 10 ans, les enfants p
 
 Team building, anniversaire, EVG/EVJF, sortie entre amis ou en famille : Lille Paintball est le lieu idéal pour tous vos événements dans les Hauts-de-France. Profitez d’un accompagnement sur-mesure, d’espaces privatifs et d’un large choix d’activités pour une journée inoubliable.
 
-**Envie de découvrir le meilleur du paintball en Hauts-de-France ?** Réservez votre session sur *www\.team-square.fr/activiteTeamSquare/paintball/* et bénéficiez de -20% avec le code TS20. Vivez l’expérience Team Square et partagez des moments forts à Hénin-Beaumont, le centre multi-activités incontournable près de Lille !
+**Envie de découvrir le meilleur du paintball en Hauts-de-France ?** Réservez votre session sur [*www.team-square.fr/activiteTeamSquare/paintball/*](http://www.team-square.fr/activiteTeamSquare/paintball/) et bénéficiez de -20% avec le code TS20. Vivez l’expérience Team Square et partagez des moments forts à Hénin-Beaumont, le centre multi-activités incontournable près de Lille !

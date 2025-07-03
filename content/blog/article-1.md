@@ -14,7 +14,7 @@ summarySeo: "Profitez du paintball à Lille avec Team Square : 22 activités,
 
 Le paintball est bien plus qu’un simple jeu : c’est une véritable aventure où stratégie, esprit d’équipe et adrénaline se mêlent pour créer des souvenirs mémorables. Chez Lille Paintball, à seulement 20 minutes de Lille, vous profitez de **5 terrains extérieurs scénarisés** pour varier les plaisirs et relever de nouveaux défis à chaque partie.
 
-**Pourquoi choisir Lille Paintball ?**
+### **Pourquoi choisir Lille Paintball ?**
 
 - **Des terrains immersifs** : Bus à prendre d’assaut, ruines à explorer, forêts à conquérir… Chaque décor vous plonge dans une nouvelle mission pour une expérience digne des meilleurs jeux vidéo1.
 - **Un encadrement professionnel** : Nos animateurs passionnés garantissent votre sécurité et adaptent les scénarios selon vos envies pour un moment sur-mesure.
