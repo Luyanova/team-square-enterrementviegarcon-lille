@@ -20,14 +20,14 @@ footerText: Chez Team Square Lille, le paintball devient une aventure urbaine
   unique. Plongez dans des scénarios originaux sur des terrains variés, adaptés
   à tous les niveaux. Que vous soyez débutant ou joueur confirmé, chaque session
   promet adrénaline et sécurité dans un cadre encadré par des pros.
-informationTitle: Infos Pratiques Paintball Lille
+informationTitle: Infos Pratiques Paintball
 numberPlayers: "6"
 minimalAge: "14"
-informationDescription: Vivez l’expérience paintball à Lille sur 5 terrains
-  extérieurs scénarisés, dès 14 ans ! Parfait pour anniversaires, EVG, EVJF ou
-  sorties entre amis. Encadrement pro, équipement fourni, bar et restauration
-  sur place. Profitez de 22 activités sur un même site, à 20 min de Lille.
-  Réservez et partagez des moments intenses sans changer de lieu !
+informationDescription: Vivez l’expérience paintball à côté de Lille sur 5
+  terrains extérieurs scénarisés, dès 14 ans ! Parfait pour anniversaires, EVG,
+  EVJF ou sorties entre amis. Encadrement pro, équipement fourni, bar et
+  restauration sur place. Profitez de 22 activités sur un même site, à 20 min de
+  Lille. Réservez et partagez des moments intenses sans changer de lieu !
 priceGrid:
   - - 60mins
     - 25€
@@ -40,7 +40,7 @@ priceGrid:
     - 50€
 outside: false
 outsideText: Animation paintball à domicile possible à partir de 1 204,50€.
-imageSectionTitle: Nos terrains de paintball à Lille
+imageSectionTitle: Nos terrains de paintball à proximité de Lille
 galleryImages:
   - path: /img/paint1.jpg
     legend: Le bus
