@@ -1,19 +1,19 @@
 ---
-title: Vivez le Paintball à Lille comme Jamais Ailleurs
+title: Vivez le Paintball près de Lille comme Jamais Ailleurs
 titleSeo: "Team Square Lille : Le Spot Incontournable du Paintball"
-descriptionSeo: Découvrez nos terrains de paintball à Lille, pensés pour les
-  groupes, familles et entreprises. Réservez votre aventure urbaine dès
+descriptionSeo: Découvrez nos terrains de paintball à coté de Lille, pensés pour
+  les groupes, familles et entreprises. Réservez votre aventure urbaine dès
   aujourd'hui !
-description: Le paintball à Lille, c'est l'affrontement de deux équipes de 3 à
-  15 joueurs équipés de lanceurs de billes de peinture, sur des terrains
-  extérieurs aménagés et encadrés par un arbitre. Plusieurs scénarios originaux
-  sont proposés pour pimenter chaque partie. La sécurité est assurée grâce à des
-  règles strictes et un encadrement professionnel.
+description: Le paintball à proximité de Lille, c'est l'affrontement de deux
+  équipes de 3 à 15 joueurs équipés de lanceurs de billes de peinture, sur des
+  terrains extérieurs aménagés et encadrés par un arbitre. Plusieurs scénarios
+  originaux sont proposés pour pimenter chaque partie. La sécurité est assurée
+  grâce à des règles strictes et un encadrement professionnel.
 moreLink: https://team-square.fr/activiteTeamSquare/paintball/
 image: /img/paint3.jpeg
-CtaTitle: Envie d'une session de paintball inoubliable à Lille ?
-CtaText: Contactez-nous pour toute question sur nos offres de paintball à Lille
-  ou pour organiser votre événement sur-mesure.
+CtaTitle: Envie d'une session de paintball inoubliable au alentour Lille ?
+CtaText: Contactez-nous pour toute question sur nos offres de paintball à
+  proximité de Lille ou pour organiser votre événement sur-mesure.
 CtaButton: Réserver à Lille
 footerTitle: Bien plus que du paintball à Lille
 footerText: Chez Team Square Lille, le paintball devient une aventure urbaine
