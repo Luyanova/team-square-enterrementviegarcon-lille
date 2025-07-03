@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://lille-paintball.fr.fr',
+    url: 'https://lille-paintball.fr',
   },
   vite: {
     plugins: [
