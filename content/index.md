@@ -1,5 +1,5 @@
 ---
-title: Vivez le Paintball près de Lille comme Jamais Ailleurs
+title: Vivez le Paintball à côté de Lille comme Jamais Ailleurs
 titleSeo: "Team Square Lille : Le Spot Incontournable du Paintball"
 descriptionSeo: Découvrez nos terrains de paintball à coté de Lille, pensés pour
   les groupes, familles et entreprises. Réservez votre aventure urbaine dès
