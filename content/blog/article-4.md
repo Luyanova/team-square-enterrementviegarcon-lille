@@ -33,4 +33,4 @@ Bénéficiez de 20 % de remise avec le code TS20 pour toute réservation de te
 
 ### **Envie de motiver vos équipes ?**
 
-Organisez votre team building paintball à Lille sur www\.team-square.fr/activiteTeamSquare/paintball/ et offrez à vos collaborateurs une expérience fédératrice et pleine de fun !
+Organisez votre team building paintball à Lille sur [*www.team-square.fr/activiteTeamSquare/paintball/*](http://www.team-square.fr/activiteTeamSquare/paintball/) et offrez à vos collaborateurs une expérience fédératrice et pleine de fun !
