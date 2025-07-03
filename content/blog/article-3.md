@@ -3,7 +3,7 @@ title: "Paintball pour enfants à Lille : l’aventure Kidsball chez Team Squa
 description: Faites découvrir à vos enfants l’univers du paintball en toute
   sécurité à Lille ! Le Kidsball chez Team Square est l’activité idéale pour un
   anniversaire ou une sortie entre copains, dès 10 ans.
-date: 2024-07-30
+date: 2025-06-30
 coverImage: /img/paint4.jpg
 summarySeo: "Kidsball à Lille : paintball sécurisé pour enfants dès 10 ans,
   encadrement expert, scénarios ludiques, bar, snacking, 20 % de remise avec
