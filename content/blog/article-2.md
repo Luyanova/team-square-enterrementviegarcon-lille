@@ -12,7 +12,7 @@ summarySeo: "Découvrez le paintball à Hénin-Beaumont, près de Lille : 5 terr
 
 ### **Le paintball, l’activité phare des Hauts-de-France**
 
-Le paintball séduit petits et grands par son côté ludique, sportif et stratégique. À Hénin-Beaumont, le centre Lille Paintball vous accueille sur **5 hectares de terrains scénarisés**, pour des parties immersives et variées tout au long de l’année.
+Le paintball séduit petits et grands par son côté ludique, sportif et stratégique. À Hénin-Beaumont, le centre Team Square vous accueille sur **5 hectares de terrains scénarisés**, pour des parties immersives et variées tout au long de l’année.
 
 ### **Ce qui fait la différence à Lille Paintball :**
 
