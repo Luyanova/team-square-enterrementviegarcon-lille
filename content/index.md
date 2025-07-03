@@ -23,12 +23,11 @@ footerText: Chez Team Square Lille, le paintball devient une aventure urbaine
 informationTitle: Infos Pratiques Paintball Lille
 numberPlayers: "6"
 minimalAge: "14"
-informationDescription: Découvrez le paintball près de Lille sur 5 terrains
-  extérieurs scénarisés, encadrés par des arbitres passionnés. Activité idéale
-  dès 14 ans pour anniversaires, EVG, EVJF ou sorties entre amis. Profitez d’une
-  expérience fun et sécurisée, à seulement 20 minutes de Lille, avec tout
-  l’équipement fourni. Réservez votre session paintball à Hénin-Beaumont et
-  vivez l’adrénaline sans changer de lieu, avec accès bar et restauration
+informationDescription: Vivez l’expérience paintball à Lille sur 5 terrains
+  extérieurs scénarisés, dès 14 ans ! Parfait pour anniversaires, EVG, EVJF ou
+  sorties entre amis. Encadrement pro, équipement fourni, bar et restauration
+  sur place. Profitez de 22 activités sur un même site, à 20 min de Lille.
+  Réservez et partagez des moments intenses sans changer de lieu !
 priceGrid:
   - - 60mins
     - 25€
