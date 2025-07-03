@@ -39,4 +39,6 @@ Que vous soyez débutant ou joueur confirmé, le paintball s’adapte à tous le
 
 Anniversaire, enterrement de vie de célibataire, team building ou simple sortie entre amis : Lille Paintball est le cadre idéal pour tous vos événements. Profitez d’une ambiance conviviale, d’infrastructures modernes et d’une équipe à l’écoute de vos besoins pour personnaliser votre journée.
 
-**Prêt à vivre l’expérience paintball la plus intense près de Lille ?** Réservez dès maintenant votre session sur [*www.team-square.fr/activiteTeamSquare/paintball/*](http://www.team-square.fr/activiteTeamSquare/paintball/) et bénéficiez de -20% avec le code TS20. Venez vibrer, célébrer et partager des moments uniques chez Team Square, le centre multi-activités de référence dans les Hauts-de-France !
+**Prêt à vivre l’expérience paintball la plus intense près de Lille ?**
+
+Réservez dès maintenant votre session sur [*www.team-square.fr/activiteTeamSquare/paintball/*](http://www.team-square.fr/activiteTeamSquare/paintball/) et bénéficiez de -20% avec le code TS20. Venez vibrer, célébrer et partager des moments uniques chez Team Square, le centre multi-activités de référence dans les Hauts-de-France !
