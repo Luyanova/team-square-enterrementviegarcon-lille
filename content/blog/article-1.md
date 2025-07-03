@@ -16,7 +16,7 @@ Le paintball est bien plus qu’un simple jeu : c’est une véritable aventure 
 
 ### **Pourquoi choisir Lille Paintball ?**
 
-- **Des terrains immersifs** : Bus à prendre d’assaut, ruines à explorer, forêts à conquérir… Chaque décor vous plonge dans une nouvelle mission pour une expérience digne des meilleurs jeux vidéo1.
+- **Des terrains immersifs** : Bus à prendre d’assaut, ruines à explorer, forêts à conquérir… Chaque décor vous plonge dans une nouvelle mission pour une expérience digne des meilleurs jeux vidéo.
 - **Un encadrement professionnel** : Nos animateurs passionnés garantissent votre sécurité et adaptent les scénarios selon vos envies pour un moment sur-mesure.
 - **Sécurité et confort** : Vestiaires, douches chauffées, bar et snackerie sont à votre disposition pour une journée tout confort, sans changer de lieu.
 
@@ -24,7 +24,7 @@ Le paintball est bien plus qu’un simple jeu : c’est une véritable aventure 
 
 Lille Paintball ne se limite pas au paintball ! Profitez de **22 activités** sur place : réalité virtuelle, archery tag, bubble foot, laser tag, foot en salle, et bien plus encore. Idéal pour transformer une simple sortie en véritable journée multi-activités sans avoir à vous déplacer.
 
-**Les avantages Team Square à Hénin-Beaumont :**
+### **Les avantages Team Square à Hénin-Beaumont :**
 
 - **Journée complète sur un seul site** : Passez d’une activité à l’autre sans perdre de temps.
 - **Bar et restauration sur place** : Profitez d’un moment convivial avant, pendant ou après vos parties.
