@@ -34,4 +34,4 @@ Les enfants s’affrontent sur des terrains extérieurs thématisés, avec des s
 
 ### **Offrez à votre enfant une expérience inoubliable !**
 
-Réservez le Kidsball à Lille sur www\.team-square.fr/activiteTeamSquare/kidsball/ et profitez d’une remise de 20 % avec le code TS20 !
+Réservez le Kidsball à Lille sur [www.team-square.fr/activiteTeamSquare/kidsball/](http://www.team-square.fr/activiteTeamSquare/kidsball/) et profitez d’une remise de 20 % avec le code TS20 !
