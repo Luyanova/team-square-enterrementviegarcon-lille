@@ -7,6 +7,7 @@ summarySeo: "Organisez votre team building paintball à Lille : scénarios var
   encadrement expert, bar, restauration et 20 % de remise avec TS20 chez Team
   Square. Réservez vite !"
 date: 2025-07-02
+coverImage: /img/paint5.jpeg
 ---
 
 ### **Le paintball à Lille, la solution team building qui fait mouche**
