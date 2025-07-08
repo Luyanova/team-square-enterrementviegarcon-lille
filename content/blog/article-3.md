@@ -25,13 +25,13 @@ Situé à Hénin-Beaumont, à moins de 25 minutes du centre de Lille, Team Squar
 
 **Les atouts majeurs de Team Square :**
 
-- 22 activités sur place, dont le paintball, pour composer une journée complète sans changer de lieu
-- Organisation clé en main, de la réservation à la remise des prix
-- Bar et restauration sur place pour prolonger la convivialité
-- Tournée offerte à chaque groupe pour célébrer la victoire ou l’effort collectif
-- Remise de moins vingt pour cent avec le code TS20 sur toutes les activités
-- Accessibilité totale, y compris pour les personnes à mobilité réduite
-- Sécurité maximale, avec des installations contrôlées et des animateurs expérimentés
+- Vivez plus de vingt-deux activités sur site, dont le paintball, pour profiter d’une journée complète sans avoir à vous déplacer
+- Bénéficiez d’une organisation sur-mesure, de la réservation jusqu’à la remise des prix, pour une expérience fluide et sans contrainte
+- Détendez-vous dans un espace bar et restauration convivial, idéal pour prolonger les échanges après l’effort
+- Savourez une tournée offerte à chaque groupe, parfaite pour célébrer la victoire ou l’esprit d’équipe
+- Profitez d’une remise de moins vingt pour cent sur toutes les activités grâce au code TS20
+- Accédez à des installations entièrement accessibles, y compris pour les personnes à mobilité réduite
+- Jouez en toute confiance grâce à des équipements contrôlés et à l’accompagnement d’animateurs expérimentés, pour une sécurité optimale
 - :br
 
 ### **L’immersion au cœur de l’expérience paintball**
