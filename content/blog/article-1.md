@@ -31,8 +31,7 @@ Ce qui fait la force du paintball à Lille, c’est sa capacité à rassembler t
 - Tournée offerte à chaque groupe pour célébrer la victoire ou l’effort collectif
 - Remise de -20% avec le code TS20 sur toutes les activités
 - Accessibilité totale, y compris pour les personnes à mobilité réduite
-- Sécurité maximale, ave
-- c des installations contrôlées et des animateurs expérimentés
+- Sécurité maximale, avec des installations contrôlées et des animateurs expérimentés
 - :br
 
 ### **Le déroulement d’une session de paintball chez Team Square**
