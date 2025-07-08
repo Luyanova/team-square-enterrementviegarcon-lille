@@ -23,11 +23,14 @@ footerText: Chez Team Square Lille, le paintball devient une aventure urbaine
 informationTitle: Infos Pratiques Paintball
 numberPlayers: "6"
 minimalAge: "14"
-informationDescription: Vivez l’expérience paintball à côté de Lille sur 5
-  terrains extérieurs scénarisés, dès 14 ans ! Parfait pour anniversaires, EVG,
-  EVJF ou sorties entre amis. Encadrement pro, équipement fourni, bar et
-  restauration sur place. Profitez de 22 activités sur un même site, à 20 min de
-  Lille. Réservez et partagez des moments intenses sans changer de lieu !
+informationDescription: "Plongez dans l’univers du paintball près de Lille avec
+  Team Square : 5 terrains extérieurs, chacun avec un thème unique pour une
+  immersion totale. Choisissez votre lanceur selon l’âge : Gelball dès 5 ans,
+  Kidsball dès 8 ans, Paintball classique dès 14 ans. Chaque partie est encadrée
+  par un professionnel qui anime des mini scénarios tout au long du jeu, pour
+  une expérience dynamique et sécurisée. Profitez aussi de 22 activités sur
+  place, bar et restauration, le tout à 20 min de Lille. Réservez votre aventure
+  paintball et vivez des sensations fortes en équipe !"
 priceGrid:
   - - 60mins
     - 25€
