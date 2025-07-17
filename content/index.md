@@ -15,7 +15,7 @@ CtaTitle: Envie d'une session de paintball inoubliable au alentour Lille ?
 CtaText: Contactez-nous pour toute question sur nos offres de paintball à
   proximité de Lille ou pour organiser votre événement sur-mesure.
 CtaButton: Réserver à Lille
-footerTitle: Bien plus que du paintball à Lille
+footerTitle: Bien plus que du paintball
 footerText: Chez Team Square Lille, le paintball devient une aventure urbaine
   unique. Plongez dans des scénarios originaux sur des terrains variés, adaptés
   à tous les niveaux. Que vous soyez débutant ou joueur confirmé, chaque session
@@ -55,13 +55,13 @@ galleryImages:
     legend: Le silo
   - path: /img/chantier.png
     legend: Le chantier
-conditionsTitle: Conditions de participation à Lille
+conditionsTitle: Conditions de participation
 conditionsItems:
   - 6 joueurs minimum
   - À partir de 14 ans
   - Déconseillé aux femmes enceintes et aux personnes ayant subi une
     intervention chirurgicale récente
-optionsTitle: Options disponibles à Lille
+optionsTitle: Options disponibles
 optionsItems:
   - 100 billes en supplément dès 8 €
   - Combinaison à 5 €
