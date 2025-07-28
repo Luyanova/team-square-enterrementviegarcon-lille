@@ -28,11 +28,11 @@ p {
 }
 
 h1 {
-  @apply font-['Overpass'] text-[64px] font-extrabold leading-[107%] tracking-[-4.48px];
+  @apply font-['Overpass'] text-[48px] font-extrabold leading-[107%] tracking-[-4.48px];
 }
 
 h2 {
-  @apply font-['Overpass'] text-[44px] font-extrabold leading-[44px] tracking-[-2.64px];
+  @apply font-['Overpass'] text-[32px] font-extrabold leading-[44px] tracking-[-2.64px];
 }
 
 h3 {

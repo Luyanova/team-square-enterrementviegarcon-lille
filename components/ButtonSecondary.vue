@@ -2,6 +2,7 @@
   <component
     :is="to ? NuxtLink : 'button'"
     :to="to"
+    v-bind="isExternal ? { target: '_blank', rel: 'noopener noreferrer' } : {}"
     class="cta text-grey-900 bg-gradient-to-t from-grey-100 to-white px-6 py-3 rounded-sm border border-grey-200 hover:from-grey-200 hover:to-grey-50 transition-all duration-200"
   >
     <slot />
@@ -11,11 +12,16 @@
 <script setup>
 import { NuxtLink } from '#components'
 
-defineProps({
+const props = defineProps({
   to: {
     type: [String, Object],
     default: null
   }
+})
+
+const isExternal = computed(() => {
+  if (!props.to || typeof props.to !== 'string') return false
+  return props.to.startsWith('http')
 })
 </script>
 
