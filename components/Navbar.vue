@@ -54,7 +54,16 @@
             >
                 <NuxtLink to="/" class="text-grey-900 text-2xl font-bold" @click="isOpen = false">Accueil</NuxtLink>
                 <NuxtLink to="/contact" class="text-grey-900 text-2xl font-bold" @click="isOpen = false">Contact</NuxtLink>
-                <NuxtLink to="https://team-square.fr/reservation-4escape/#/" class="text-grey-900 text-2xl font-bold" @click="isOpen = false">Réserver</NuxtLink>
+                <NuxtLink
+                    to="https://team-square.fr/reservation-4escape/#/"
+                    class="text-grey-900 text-2xl font-bold"
+                    @click="isOpen = false"
+                    external
+                    target="_blank"
+                    rel="noopener"
+                >
+                    Réserver
+                </NuxtLink>
             </div>
         </transition>
     </nav>

@@ -1,9 +1,9 @@
 ---
 title: "Paintball Douai : aventure stratégique et fun Team Square"
-description: "Vivez le paintball à Douai comme jamais : scénarios immersifs, sécurité, organisation sur-mesure, bar/restauration, remise -20% et 22 activités Team Square."
+description: "Explorez le paintball à Douai sous un angle stratégique : scénarios sur-mesure, sécurité, équipements haut de gamme et ambiance festive pour tous vos événements."
 date: 2025-07-05
 coverImage: /img/paint5.jpeg
-summarySeo: "Découvrez le paintball à Douai avec Team Square : immersion totale, sécurité, organisation personnalisée, bar/restauration, remise -20% et 22 activités sur place."
+summarySeo: "Vivez une aventure paintball à Douai avec Team Square : scénarios tactiques, sécurité, organisation personnalisée et moments festifs pour groupes et familles."
 ---
 
 ### Paintball à Douai : l’activité qui transforme chaque événement

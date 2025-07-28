@@ -2,8 +2,8 @@
 title: Vivez le Paintball à Douai comme Jamais Ailleurs
 titleSeo: "Team Square Douai : Le Spot Incontournable du Paintball"
 descriptionSeo: Découvrez le paintball à Douai, pensé pour les groupes, familles et amis. Réservez votre aventure immersive et conviviale dès aujourd'hui !
-description: Le paintball à Douai, c’est l’occasion parfaite de partager des moments intenses entre amis ou en famille. Sur un site unique, profitez de 22 activités variées, d’un encadrement professionnel et d’un environnement sécurisé. Les terrains thématiques et les scénarios originaux garantissent une expérience ludique et accessible à tous. Bar, restauration et espaces détente sont à disposition pour prolonger le plaisir. Idéal pour anniversaires, EVG, EVJF ou toute sortie loisirs, Team Square Douai vous promet une journée inoubliable sans changer de lieu. Réservez vite votre session et vivez l’aventure paintball à Douai !
-moreLink: "/activiteTeamSquare/paintball/"
+description: Découvrez le paintball à Douai : terrains thématiques, encadrement professionnel et scénarios immersifs pour vivre des moments intenses entre amis ou en famille. Réservez votre session et profitez d’une expérience ludique et sécurisée !
+moreLink: "https://team-square.fr/activiteTeamSquare/paintball/"
 image: /img/paint3.jpeg
 CtaTitle: Envie d'une session de paintball inoubliable à Douai ?
 CtaText: Contactez-nous pour toute question sur nos offres de paintball à Douai ou pour organiser votre événement sur-mesure.
@@ -16,14 +16,14 @@ minimalAge: "14"
 informationDescription: "Découvrez le paintball à Douai avec Team Square : 5 terrains extérieurs thématiques, encadrement professionnel, équipements adaptés à chaque âge et 22 activités sur place. Vivez une expérience dynamique, sécurisée et accessible à tous, avec bar, restauration et espaces détente pour prolonger la journée. Réservez votre aventure paintball à Douai et partagez des sensations fortes en équipe !"
 priceGrid:
   - - 60mins
-    - ""
-    - ""
+    - 25€
+    - 30€
   - - 90mins
-    - ""
-    - ""
+    - 35€
+    - 40€
   - - 120mins
-    - ""
-    - ""
+    - 45€
+    - 50€
 outside: false
 outsideText: Animation paintball à domicile possible sur demande.
 imageSectionTitle: Nos terrains de paintball à Douai

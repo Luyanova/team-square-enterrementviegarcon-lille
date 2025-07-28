@@ -5,7 +5,7 @@
       <h1>{{ post.title }}</h1>
       <p class="lead">{{ post.description }}</p>
       <p class="text-sm text-grey-500 mb-8">{{ formatDate(post.date) }}</p>
-      <ContentRenderer :value="post" />
+      <ContentRenderer :value="post" class="prose max-w-4xl mx-auto [&_p]:mb-10"/>
     </article>
     <div v-else>
       <p>Article non trouvé.</p>
@@ -40,3 +40,9 @@ const siteConfig = useSiteConfig()
   });
 
 </script> 
+
+<style scoped>
+p {
+  margin-bottom: 1rem;
+}
+</style>
