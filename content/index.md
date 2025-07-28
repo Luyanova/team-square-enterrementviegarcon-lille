@@ -2,7 +2,7 @@
 title: Vivez le Paintball à Douai comme Jamais Ailleurs
 titleSeo: "Team Square Douai : Le Spot Incontournable du Paintball"
 descriptionSeo: Découvrez le paintball à Douai, pensé pour les groupes, familles et amis. Réservez votre aventure immersive et conviviale dès aujourd'hui !
-description: Découvrez le paintball à Douai : terrains thématiques, encadrement professionnel et scénarios immersifs pour vivre des moments intenses entre amis ou en famille. Réservez votre session et profitez d’une expérience ludique et sécurisée !
+description: Le paintball à Douai, c’est l’occasion parfaite de partager des moments intenses entre amis ou en famille.  Réservez vite votre session et vivez l’aventure paintball à Douai !
 moreLink: "https://team-square.fr/activiteTeamSquare/paintball/"
 image: /img/paint3.jpeg
 CtaTitle: Envie d'une session de paintball inoubliable à Douai ?
