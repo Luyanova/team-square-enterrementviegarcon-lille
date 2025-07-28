@@ -1,49 +1,32 @@
 ---
-title: Vivez le Paintball près de Lille comme Jamais Ailleurs
-titleSeo: "Team Square Lille : Le Spot Incontournable du Paintball"
-descriptionSeo: Découvrez nos terrains de paintball à coté de Lille, pensés pour
-  les groupes, familles et entreprises. Réservez votre aventure urbaine dès
-  aujourd'hui !
-description: Le paintball à proximité de Lille, c'est l'affrontement de deux
-  équipes de 3 à 15 joueurs équipés de lanceurs de billes de peinture, sur des
-  terrains extérieurs aménagés et encadrés par un arbitre. Plusieurs scénarios
-  originaux sont proposés pour pimenter chaque partie. La sécurité est assurée
-  grâce à des règles strictes et un encadrement professionnel.
-moreLink: https://team-square.fr/activiteTeamSquare/paintball/
+title: Vivez le Paintball à Douai comme Jamais Ailleurs
+titleSeo: "Team Square Douai : Le Spot Incontournable du Paintball"
+descriptionSeo: Découvrez le paintball à Douai, pensé pour les groupes, familles et amis. Réservez votre aventure immersive et conviviale dès aujourd'hui !
+description: Le paintball à Douai, c’est l’occasion parfaite de partager des moments intenses entre amis ou en famille. Sur un site unique, profitez de 22 activités variées, d’un encadrement professionnel et d’un environnement sécurisé. Les terrains thématiques et les scénarios originaux garantissent une expérience ludique et accessible à tous. Bar, restauration et espaces détente sont à disposition pour prolonger le plaisir. Idéal pour anniversaires, EVG, EVJF ou toute sortie loisirs, Team Square Douai vous promet une journée inoubliable sans changer de lieu. Réservez vite votre session et vivez l’aventure paintball à Douai !
+moreLink: "/activiteTeamSquare/paintball/"
 image: /img/paint3.jpeg
-CtaTitle: Envie d'une session de paintball inoubliable au alentour Lille ?
-CtaText: Contactez-nous pour toute question sur nos offres de paintball à
-  proximité de Lille ou pour organiser votre événement sur-mesure.
-CtaButton: Réserver à Lille
+CtaTitle: Envie d'une session de paintball inoubliable à Douai ?
+CtaText: Contactez-nous pour toute question sur nos offres de paintball à Douai ou pour organiser votre événement sur-mesure.
+CtaButton: Réserver à Douai
 footerTitle: Bien plus que du paintball
-footerText: Chez Team Square Lille, le paintball devient une aventure urbaine
-  unique. Plongez dans des scénarios originaux sur des terrains variés, adaptés
-  à tous les niveaux. Que vous soyez débutant ou joueur confirmé, chaque session
-  promet adrénaline et sécurité dans un cadre encadré par des pros.
+footerText: Chez Team Square Douai, le paintball devient une aventure unique. Plongez dans des scénarios immersifs sur des terrains adaptés à tous les niveaux. Que vous soyez débutant ou joueur confirmé, chaque session promet adrénaline et sécurité dans un cadre encadré par des pros.
 informationTitle: Infos Pratiques Paintball
 numberPlayers: "6"
 minimalAge: "14"
-informationDescription: "Plongez dans l’univers du paintball près de Lille avec
-  Team Square : 5 terrains extérieurs, chacun avec un thème unique pour une
-  immersion totale. Choisissez votre lanceur selon l’âge : Gelball dès 5 ans,
-  Kidsball dès 8 ans, Paintball classique dès 14 ans. Chaque partie est encadrée
-  par un professionnel qui anime des mini scénarios tout au long du jeu, pour
-  une expérience dynamique et sécurisée. Profitez aussi de 22 activités sur
-  place, bar et restauration, le tout à 20 min de Lille. Réservez votre aventure
-  paintball et vivez des sensations fortes en équipe !"
+informationDescription: "Découvrez le paintball à Douai avec Team Square : 5 terrains extérieurs thématiques, encadrement professionnel, équipements adaptés à chaque âge et 22 activités sur place. Vivez une expérience dynamique, sécurisée et accessible à tous, avec bar, restauration et espaces détente pour prolonger la journée. Réservez votre aventure paintball à Douai et partagez des sensations fortes en équipe !"
 priceGrid:
   - - 60mins
-    - 25€
-    - 30€
+    - ""
+    - ""
   - - 90mins
-    - 35€
-    - 40€
+    - ""
+    - ""
   - - 120mins
-    - 45€
-    - 50€
+    - ""
+    - ""
 outside: false
-outsideText: Animation paintball à domicile possible à partir de 1 204,50€.
-imageSectionTitle: Nos terrains de paintball à proximité de Lille
+outsideText: Animation paintball à domicile possible sur demande.
+imageSectionTitle: Nos terrains de paintball à Douai
 galleryImages:
   - path: /img/paint1.jpg
     legend: Le bus
@@ -59,10 +42,9 @@ conditionsTitle: Conditions de participation
 conditionsItems:
   - 6 joueurs minimum
   - À partir de 14 ans
-  - Déconseillé aux femmes enceintes et aux personnes ayant subi une
-    intervention chirurgicale récente
+  - Déconseillé aux femmes enceintes et aux personnes ayant subi une intervention chirurgicale récente
 optionsTitle: Options disponibles
 optionsItems:
-  - 100 billes en supplément dès 8 €
-  - Combinaison à 5 €
+  - 100 billes en supplément
+  - Combinaison disponible
 ---
