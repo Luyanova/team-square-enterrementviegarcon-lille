@@ -1,7 +1,7 @@
 ---
 title: "Paintball Douai : esprit d’équipe et sensations fortes Team Square"
 description: "Vivez le paintball à Douai comme une aventure collective : scénarios variés, sécurité, encadrement passionné et moments inoubliables à partager en groupe."
-date: 2025-07-05
+date: 2028-07-22
 coverImage: /img/paint4.jpg
 summarySeo: "Découvrez le paintball à Douai avec Team Square : esprit d’équipe, scénarios immersifs, sécurité et convivialité pour des événements réussis et fédérateurs."
 ---

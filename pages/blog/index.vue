@@ -21,7 +21,10 @@
 
 <script setup>
 const { data: posts } = await useAsyncData('blog-posts', () => {
-  return queryCollection('blog').order('date', 'DESC').all();
+  return queryCollection('blog')
+    .where('date', '<=', new Date().toISOString())
+    .order('date', 'DESC')
+    .all();
 });
 
 const formatDate = (date) => {

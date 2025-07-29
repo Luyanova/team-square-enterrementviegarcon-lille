@@ -15,8 +15,14 @@
 
 <script setup>
 const route = useRoute();
-const { data: post } = await useAsyncData(`blog-${route.path}`, () => {
-  return queryCollection('blog').path(route.path).first();
+const { data: post } = await useAsyncData(`blog-${route.path}`, async () => {
+  const article = await queryCollection('blog').path(route.path).first();
+  
+  if (article && article.date && new Date(article.date) > new Date()) {
+    return null;
+  }
+  
+  return article;
 });
 
 const formatDate = (date) => {
