@@ -1,11 +1,11 @@
 ---
-bookingPageTitle: Réservez votre Paintball à Douai - Team Square
-bookingPageDescription: Organisez votre session de paintball à Douai en toute simplicité. Choisissez la date, le nombre de joueurs et préparez-vous à vivre une expérience immersive et conviviale avec Team Square.
+bookingPageTitle: "Réservez votre Paintball à Lens - Team Square"
+bookingPageDescription: "Organisez votre session de paintball à Lens facilement. Choisissez votre date, le nombre de joueurs et préparez-vous pour une aventure immersive avec Team Square."
 bookingPageImage: /img/paint6.png
-contactPageTitle: Contactez l'équipe Paintball Douai - Team Square
-contactPageDescription: Une question sur nos offres de paintball à Douai ? Besoin d’un conseil ou d’un accompagnement personnalisé ? Notre équipe est à votre écoute pour organiser votre activité sur-mesure.
+contactPageTitle: "Contactez l'équipe Paintball Lens - Team Square"
+contactPageDescription: "Une question sur le paintball à Lens ? Notre équipe est là pour vous aider à organiser votre événement sur-mesure et répondre à toutes vos demandes."
 contactPageImage: /img/paint6.png
-blogIndexPageTitle: Blog Paintball Douai - Conseils & Actus Team Square
-blogIndexPageDescription: Parcourez nos articles, astuces et nouveautés sur le paintball à Douai et découvrez toutes les tendances pour profiter pleinement de votre activité Team Square.
+blogIndexPageTitle: "Blog Paintball Lens - Astuces & Actualités Team Square"
+blogIndexPageDescription: "Découvrez nos articles et conseils sur le paintball à Lens. Profitez des actualités de Team Square pour une expérience de jeu optimale."
 blogIndexPageImage: /img/paint6.png
---- 
+---

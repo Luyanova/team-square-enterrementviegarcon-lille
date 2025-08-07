@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://paintball-douai.fr',
+    url: 'https://paintball-lens.fr',
   },
   vite: {
     plugins: [
@@ -25,9 +25,9 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio',
       gitInfo: {
-        name: 'team-square-paintball-douai',
+        name: 'team-square-paintball-lens',
         owner: 'Luyanova',
-        url: 'https://github.com/Luyanova/team-square-paintball-douai'
+        url: 'https://github.com/Luyanova/team-square-paintball-lens'
       }
     }
   }
