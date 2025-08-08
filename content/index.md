@@ -7,7 +7,7 @@ moreLink: "https://team-square.fr/activiteTeamSquare/paintball/"
 image: /img/paint3.jpeg
 CtaTitle: "Prêts pour une session de paintball mémorable à Lens ?"
 CtaText: "Contactez-nous pour organiser votre événement sur-mesure ou pour toute question sur nos formules de paintball à Lens."
-CtaButton: "Réservez votre partie à Lens"
+CtaButton: "Réservez votre partie"
 footerTitle: "Bien Plus qu'une Simple Partie de Paintball"
 footerText: "Chez Team Square Lens, le paintball se transforme en une véritable aventure. Explorez des scénarios captivants sur nos terrains adaptés à tous les niveaux. Que vous soyez novice ou expert, nous garantissons adrénaline et sécurité, le tout encadré par nos animateurs professionnels."
 informationTitle: "Informations Pratiques sur le Paintball à Lens"

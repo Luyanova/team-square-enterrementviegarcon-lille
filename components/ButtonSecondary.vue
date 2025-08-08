@@ -1,12 +1,27 @@
 <template>
-  <component
-    :is="to ? NuxtLink : 'button'"
+  <NuxtLink
+    v-if="to && !isExternal"
     :to="to"
-    v-bind="isExternal ? { target: '_blank', rel: 'noopener noreferrer' } : {}"
     class="cta text-grey-900 bg-gradient-to-t from-grey-100 to-white px-6 py-3 rounded-sm border border-grey-200 hover:from-grey-200 hover:to-grey-50 transition-all duration-200"
   >
     <slot />
-  </component>
+  </NuxtLink>
+  <a
+    v-else-if="to && isExternal"
+    :href="to"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="cta text-grey-900 bg-gradient-to-t from-grey-100 to-white px-6 py-3 rounded-sm border border-grey-200 hover:from-grey-200 hover:to-grey-50 transition-all duration-200"
+  >
+    <slot />
+  </a>
+  <button
+    v-else
+    type="button"
+    class="cta text-grey-900 bg-gradient-to-t from-grey-100 to-white px-6 py-3 rounded-sm border border-grey-200 hover:from-grey-200 hover:to-grey-50 transition-all duration-200"
+  >
+    <slot />
+  </button>
 </template>
 
 <script setup>

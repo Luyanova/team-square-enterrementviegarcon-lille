@@ -1,7 +1,7 @@
 ---
 title: "Paintball Lens : Immersion, Stratégie et Fun chez Team Square"
 description: "Plongez au cœur de l'action avec le paintball à Lens. Découvrez des scénarios immersifs, un esprit d'équipe survolté et une organisation personnalisée pour des moments inoubliables."
-date: 2023-10-27
+date: 2025-10-27
 coverImage: /img/paint3.jpeg
 summarySeo: "Vivez une aventure paintball captivante à Lens avec Team Square. Stratégie, adrénaline et fun garantis sur nos terrains thématiques. Réservez votre session !"
 ---

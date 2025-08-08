@@ -1,7 +1,7 @@
 ---
 title: "Paintball Lens : L'Aventure Stratégique et Fun par Team Square"
 description: "Explorez le paintball à Lens sous un angle stratégique et amusant. Scénarios sur-mesure, sécurité irréprochable et ambiance festive pour tous vos événements avec Team Square."
-date: 2023-10-29
+date: 2025-10-29
 coverImage: /img/paint5.jpeg
 summarySeo: "Vivez une aventure paintball inoubliable à Lens. Team Square vous propose des scénarios tactiques, une sécurité optimale et une organisation personnalisée pour des moments fun en groupe."
 ---

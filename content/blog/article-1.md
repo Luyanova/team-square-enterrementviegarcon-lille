@@ -1,7 +1,7 @@
 ---
 title: "Paintball Lens : L'Expérience Incontournable avec Team Square"
 description: "Découvrez comment Team Square transforme une simple partie de paintball à Lens en une aventure mémorable. Immersion, sécurité et convivialité pour tous vos événements."
-date: 2023-10-26
+date: 2025-10-26
 coverImage: /img/paint2.jpg
 summarySeo: "Vivez une expérience paintball unique à Lens avec Team Square. Organisation sur-mesure, sécurité maximale et terrains thématiques pour des souvenirs inoubliables."
 ---

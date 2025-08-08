@@ -1,7 +1,7 @@
 ---
 title: "Paintball Lens : Esprit d'Équipe et Sensations Fortes Garantis"
 description: "Vivez le paintball à Lens comme une véritable aventure collective. Scénarios stimulants, sécurité irréprochable et moments inoubliables à partager en groupe avec Team Square."
-date: 2023-10-28
+date: 2025-10-28
 coverImage: /img/paint4.jpg
 summarySeo: "Découvrez le paintball à Lens avec Team Square. Mettez l'accent sur l'esprit d'équipe avec nos scénarios immersifs et notre encadrement professionnel. Ambiance conviviale assurée."
 ---

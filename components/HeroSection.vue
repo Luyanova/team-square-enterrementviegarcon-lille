@@ -16,9 +16,7 @@
               <ButtonPrimary to="https://team-square.fr/reservation-4escape/">Réserver l'activité</ButtonPrimary>
 
             <div>
-              <NuxtLink v-if="data?.moreLink" :to="data.moreLink" external>
-                <ButtonSecondary>En savoir plus</ButtonSecondary>
-              </NuxtLink>
+              <ButtonSecondary v-if="data?.moreLink" :to="data.moreLink">En savoir plus</ButtonSecondary>
             </div>
           </div>
 
