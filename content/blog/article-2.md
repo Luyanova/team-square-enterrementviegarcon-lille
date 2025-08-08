@@ -1,48 +1,56 @@
 ---
-title: "Paintball Lens : Immersion, Stratégie et Fun chez Team Square"
-description: "Plongez au cœur de l'action avec le paintball à Lens. Découvrez des scénarios immersifs, un esprit d'équipe survolté et une organisation personnalisée pour des moments inoubliables."
-date: 2025-10-27
+title: "Bubble Foot Douai : Cohésion, Rires et Défis sportifs"
+description: "À Douai, vivez un bubble foot énergique et accessible. En bulle, on se rentre dedans, on rebondit et on rit, encadré par Team Square pour un moment 100% fun."
+date: 2025-08-11
 coverImage: /img/paint3.jpeg
-summarySeo: "Vivez une aventure paintball captivante à Lens avec Team Square. Stratégie, adrénaline et fun garantis sur nos terrains thématiques. Réservez votre session !"
+summarySeo: "Bubble foot à Douai chez Team Square : sécurité, coaching, bar/restauration, tournée offerte et code TS20. Parfait pour EVG/EVJF, anniversaires, familles et entreprises."
 ---
 
-### Le Paintball à Lens : Une Aventure Grandeur Nature
+### Bubble foot à Douai : le sport qui met tout le monde d’accord
 
-À Lens, le paintball est bien plus qu'un simple jeu. C'est une aventure grandeur nature qui captive tous les publics. Team Square vous invite à une expérience totalement immersive, parfaite pour les amateurs de stratégie, d'adrénaline et de moments conviviaux. Sur nos terrains spécialement aménagés, chaque partie devient un scénario unique où la ruse, la cohésion d'équipe et la prise de décision rapide font toute la différence. Préparez-vous à vivre une expérience intense et mémorable.
+Le bubble foot, c’est du football en version gonflée, des rebonds dans tous les sens et une ambiance qui fait l’unanimité. À Douai, Team Square propose une animation rythmée où les contacts sont amortis par une grande bulle transparente. Résultat : on ose, on rigole, on se dépasse sans se prendre au sérieux. Que vous soyez sportif aguerri ou parfait débutant, vous prenez du plaisir dès les premières minutes. Cette activité convient aux groupes d’amis, aux familles, aux associations et aux équipes en entreprise qui veulent casser la routine et créer de vrais souvenirs.
 
-### Team Square : La Référence du Paintball à Lens
+### Un encadrement pro pour un plaisir maximal
 
-Situé à proximité de Lens, Team Square est le complexe multi-activités incontournable pour une expérience paintball de haute qualité. Nous avons tout mis en œuvre pour vous offrir plaisir, sécurité et originalité : un vaste terrain extérieur, des équipements de dernière génération, des scénarios constamment renouvelés et un encadrement personnalisé par des animateurs passionnés. Avec 22 activités sur place, nous vous offrons une journée complète de loisirs sans avoir à changer de lieu. C'est une offre unique dans la région de Lens.
+Notre équipe à Douai conçoit chaque session pour qu’elle soit fluide et inclusive. Briefing clair, échauffement rapide, démonstrations ludiques : tout est pensé pour mettre le groupe en confiance. Ensuite, place aux matchs courts (4v4/5v5), à des scénarios variés et à des rotations régulières afin que chacun·e joue à son rythme. Vous gardez le sourire, l’intensité reste élevée, et personne ne reste sur la touche.
 
-### Des Scénarios Immersifs pour Tous les Groupes
+### Sécurité et confort : l’équilibre parfait
 
-Ce qui distingue le paintball chez Team Square Lens, c'est la richesse et la créativité de nos scénarios. Capture de drapeau, défense de base, mission de sabotage, escorte de VIP... Chaque session est conçue comme une aventure immersive qui stimule la réflexion, la stratégie et la cohésion d'équipe. Nos animateurs adaptent les scénarios à votre groupe pour garantir un plaisir de jeu constamment renouvelé. Vous ne vivrez jamais deux fois la même partie de paintball à Lens.
+Le bubble foot est impressionnant, mais il se pratique en douceur quand les règles sont respectées. À Douai, notre animateur·rice rappelle les consignes essentielles : pas de charge dans le dos, pas de chocs tête contre tête, attention aux appuis et respect des adversaires. Les bulles absorbent l’essentiel des contacts et nous prévoyons des pauses hydratation pour maintenir l’énergie du groupe. Vous pouvez vous lâcher sans inquiétude.
 
-### Équipement Haut de Gamme pour une Sécurité Optimale
+### Des formats de jeu pour varier les plaisirs
 
-La sécurité est notre priorité absolue. Chaque joueur reçoit un équipement complet et homologué, rigoureusement contrôlé : masque de protection, combinaison, plastron, gants et lanceur de dernière génération. Nos billes de peinture sont 100% biodégradables. Un briefing sécurité, à la fois complet et ludique, est systématiquement organisé avant chaque session pour garantir la sérénité de tous les participants.
+Entre deux matchs, nous proposons des mini-défis qui fédèrent : tirs au but en bulle, relais rigolos, king of the bubble, défense de zone… Ces variantes dynamisent la session, favorisent la coopération et créent des scènes mémorables à partager ensuite au bar. L’objectif reste le même : s’amuser, se dépasser et vivre un moment collectif fort à Douai.
 
-### Accessibilité et Convivialité au Cœur de l'Expérience
+### Un écosystème pensé pour les groupes
 
-Team Square s'engage à rendre le paintball accessible à tous. Nos installations à Lens sont adaptées pour accueillir les personnes à mobilité réduite, et chaque animation est pensée pour inclure tous les profils de joueurs. Notre objectif est simple : permettre à chacun de vivre des moments inoubliables dans la convivialité et le partage, sans jamais sacrifier la sécurité. L'ambiance est toujours détendue et bon enfant.
+Team Square Douai, c’est un complexe multi-activités unique où vous pouvez enchaîner les expériences sans changer de lieu. Avant ou après votre bubble foot, découvrez d’autres animations, profitez du bar/restauration, organisez une remise de « trophées » et immortalisez l’instant avec quelques photos. Les accès sont simples, le stationnement est pratique, et l’accueil est calibré pour les groupes, petits et grands.
 
-### L'Activité Idéale pour Tous Vos Événements à Lens
+### Entreprises : un team building efficace et accessible
 
-Le paintball à Lens est l'activité parfaite pour marquer les esprits lors de vos événements : anniversaires, EVG, EVJF, sorties entre amis, team building d'entreprise... Nous vous proposons des formules sur-mesure, des scénarios personnalisés et des options festives pour rendre chaque événement unique. Profitez de notre fameuse tournée offerte, de la remise permanente de -20% avec le code TS20 et d'un accueil personnalisé à chacune de vos visites.
+Vous cherchez un format de cohésion courte, ludique et générateur d’émotions positives ? Le bubble foot à Douai coche toutes les cases : il brise la glace, mélange les services, fait tomber les barrières hiérarchiques et rend le succès collectif tangible. Nos animateurs peuvent ajouter des objectifs (communication, entraide, leadership) et débriefer à chaud autour d’une tournée offerte, incluse chez Team Square.
 
-### Bar, Restauration et Espaces Détente pour Prolonger l'Expérience
+### EVG/EVJF, anniversaires, associations : vivez la différence
 
-Après l'effort, le réconfort ! Notre espace bar et restauration convivial à Lens est l'endroit idéal pour partager un moment entre participants et débriefer les stratégies. Des vestiaires et des douches sont également accessibles pour votre confort. L'ambiance chaleureuse et l'accueil sur-mesure de notre personnel font de chaque visite un souvenir mémorable.
+La star du jour embarque dans une session personnalisée : gage fun, défi bonus, mini-tournoi à thème… Nous adorons créer la surprise. Les anniversaires enfants/ados bénéficient de formats adaptés à l’âge et à l’énergie du groupe, avec des rotations plus fréquentes et des défis accessibles. Les associations profitent de tarifs maîtrisés et d’une logistique simplifiée.
 
-### Des Formules Flexibles et des Avantages Exclusifs
+### Conseils pratiques pour une session au top
 
-Nous proposons des formules adaptées à tous les budgets et à toutes les envies. Chaque session de paintball à Lens comprend l'équipement complet, un forfait de billes, l'encadrement par un animateur dédié et l'accès privatisé au terrain. Vous pouvez choisir la durée de votre session et même opter pour des packs multi-activités.
+- Arrivez 10 à 15 minutes avant le coup d’envoi
+- Portez des chaussures fermées antidérapantes et une tenue de sport
+- Enlevez les objets coupants (bijoux, ceintures à boucles saillantes)
+- Prenez une bouteille d’eau ; nous prévoyons aussi des pauses hydratation
+- Jouez fair-play et écoutez les consignes de sécurité
 
-### Conseils pour une Session Paintball Réussie à Lens
+### Tarifs et organisation
 
-Pour profiter pleinement de votre expérience, nous vous conseillons de réserver à l'avance, particulièrement les week-ends. Prévoyez une tenue confortable et des chaussures fermées. Arrivez une quinzaine de minutes avant le début de votre session pour vous enregistrer sereinement et profiter du briefing.
+Nous proposons des durées modulables selon votre effectif et votre objectif : 45, 60 ou 90 minutes de jeu effectif, en matchs courts avec rotations. Pour les groupes plus nombreux, nous montons un mini-tournoi sur plusieurs terrains avec finales et remise symbolique de « trophées ». Contactez-nous pour un devis simple et transparent.
 
-### Réservez Votre Session de Paintball à Lens
+### Et après le match ?
 
-N'attendez plus pour vivre une expérience hors du commun. Réservez dès maintenant votre activité sur le site de Team Square et profitez de tous nos avantages exclusifs.
-https://www.team-square.fr/activiteTeamSquare/paintball/
+Direction le bar pour la tournée offerte, un encas et un grand débrief de vos plus belles actions. L’ambiance conviviale fait partie de l’ADN Team Square ; rester un peu après la session, c’est souvent là que les souvenirs se fixent et que la magie opère.
+
+### Réservez votre bubble foot à Douai
+
+Un créneau, un groupe, une bulle : il ne manque plus que vous. Réservez votre session maintenant et offrez à votre équipe un moment qu’elle n’oubliera pas.
+https://team-square.fr/activiteTeamSquare/bubble-foot/

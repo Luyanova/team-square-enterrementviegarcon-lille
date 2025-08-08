@@ -1,50 +1,50 @@
 ---
-title: "Vivez une Expérience Paintball Unique à Lens"
-titleSeo: "Team Square Lens : La Référence du Paintball"
-descriptionSeo: "Découvrez le paintball à Lens avec Team Square. Terrains immersifs, équipement pro et ambiance conviviale pour vos sorties en groupe, famille ou amis. Réservez votre aventure !"
-description: "Le paintball à Lens est l'occasion idéale de vivre des moments intenses et de renforcer les liens. Réservez votre session chez Team Square et plongez dans l'aventure !"
-moreLink: "https://team-square.fr/activiteTeamSquare/paintball/"
+title: "Bubble Foot à Douai : fun, sport et bonne humeur"
+titleSeo: "Team Square Douai : Bubble Foot et activités de groupe"
+descriptionSeo: "À Douai, découvrez le bubble foot by Team Square : matchs rythmés, sécurité, bar/restauration et 22 activités au même endroit. EVG/EVJF, familles, entreprises."
+description: "Envie d’un moment inoubliable à Douai ? Le bubble foot réunit amis, familles et équipes autour d’un jeu accessible, drôle et sécurisé. On se rentre dedans, on rebondit, on rit."
+moreLink: "https://team-square.fr/activiteTeamSquare/bubble-foot/"
 image: /img/paint3.jpeg
-CtaTitle: "Prêts pour une session de paintball mémorable à Lens ?"
-CtaText: "Contactez-nous pour organiser votre événement sur-mesure ou pour toute question sur nos formules de paintball à Lens."
+CtaTitle: "Prêts pour une session de bubble foot mémorable à Douai ?"
+CtaText: "Contactez-nous pour organiser votre événement sur-mesure ou pour toute question sur nos formules bubble foot à Douai."
 CtaButton: "Réservez votre partie"
-footerTitle: "Bien Plus qu'une Simple Partie de Paintball"
-footerText: "Chez Team Square Lens, le paintball se transforme en une véritable aventure. Explorez des scénarios captivants sur nos terrains adaptés à tous les niveaux. Que vous soyez novice ou expert, nous garantissons adrénaline et sécurité, le tout encadré par nos animateurs professionnels."
-informationTitle: "Informations Pratiques sur le Paintball à Lens"
-numberPlayers: "6"
-minimalAge: "14"
-informationDescription: "Team Square vous accueille à Lens pour une expérience paintball inoubliable : 5 terrains extérieurs thématiques, un encadrement professionnel, et des équipements adaptés à tous les âges. Profitez de nos 22 activités sur place, de notre bar, de notre restaurant et de nos espaces de détente pour une journée complète. Réservez votre aventure à Lens et partagez des moments forts en équipe !"
+footerTitle: "Le bubble foot, l’activité qui rassemble à Douai"
+footerText: "Chez Team Square Douai, on joue, on rit et on repart avec des souvenirs solides. Encadrement pro, scénarios variés, bar/restauration et tournée offerte pour chaque groupe."
+informationTitle: "Infos pratiques – Bubble foot Douai"
+numberPlayers: "8"
+minimalAge: "10"
+informationDescription: "Notre complexe de Douai vous accueille pour des sessions de bubble foot dynamiques, accessibles et 100% encadrées. Composez votre journée idéale grâce à nos 22 activités sur place, notre bar et nos espaces conviviaux."
 priceGrid:
+  - - 45mins
+    - 20€
+    - 25€
   - - 60mins
     - 25€
     - 30€
   - - 90mins
     - 35€
     - 40€
-  - - 120mins
-    - 45€
-    - 50€
 outside: false
-outsideText: "Organisation de paintball à domicile ou sur le lieu de votre choix sur demande."
-imageSectionTitle: "Nos Terrains de Paintball à Lens"
+outsideText: "Animation bubble foot possible sur site externe sur devis."
+imageSectionTitle: "Le bubble foot à Douai en images"
 galleryImages:
   - path: /img/paint1.jpg
-    legend: "Le bus"
+    legend: "Match en bulle"
   - path: /img/paint5.jpeg
-    legend: "Les containers"
+    legend: "Contact sécurisé"
   - path: /img/paint6.jpg
-    legend: "La forêt"
+    legend: "Rires garantis"
   - path: /img/silo.png
-    legend: "Le silo"
+    legend: "Terrain dédié"
   - path: /img/chantier.png
-    legend: "Le chantier"
-conditionsTitle: "Conditions de Participation"
+    legend: "Ambiance festive"
+conditionsTitle: "Conditions de participation"
 conditionsItems:
-  - "6 joueurs minimum par partie"
-  - "À partir de 14 ans"
-  - "Activité déconseillée aux femmes enceintes et aux personnes ayant récemment subi une intervention chirurgicale"
-optionsTitle: "Options Disponibles"
+  - "8 joueurs minimum recommandés"
+  - "À partir de 10 ans (format kids dédié)"
+  - "Chaussures fermées obligatoires ; retirer bijoux et objets saillants"
+optionsTitle: "Options disponibles"
 optionsItems:
-  - "Achat de 100 billes supplémentaires"
-  - "Location de combinaison de protection"
+  - "Snack/boisson après match au bar"
+  - "Privatisation de créneau et mini-tournoi"
 ---

@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://paintball-lens.fr',
+    url: 'https://bubblefoot-douai.fr',
   },
   vite: {
     plugins: [
@@ -25,9 +25,9 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio',
       gitInfo: {
-        name: 'team-square-paintball-lens',
+        name: 'team-square-bubblefoot-douai',
         owner: 'Luyanova',
-        url: 'https://github.com/Luyanova/team-square-paintball-lens'
+        url: 'https://github.com/Luyanova/team-square-bubblefoot-douai'
       }
     }
   }
