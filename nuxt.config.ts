@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://bubblefoot-douai.fr',
+    url: 'https://bubblefoot-lens.fr',
   },
   vite: {
     plugins: [
@@ -25,9 +25,9 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio',
       gitInfo: {
-        name: 'team-square-bubblefoot-douai',
+        name: 'team-square-bubblefoot-lens',
         owner: 'Luyanova',
-        url: 'https://github.com/Luyanova/team-square-bubblefoot-douai'
+        url: 'https://github.com/Luyanova/team-square-bubblefoot-lens'
       }
     }
   }
