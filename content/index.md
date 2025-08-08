@@ -26,18 +26,6 @@ priceGrid:
     - 40€
 outside: false
 outsideText: "Animation bubble foot possible sur site externe sur devis."
-imageSectionTitle: "Le bubble foot à Douai en images"
-galleryImages:
-  - path: /img/paint1.jpg
-    legend: "Match en bulle"
-  - path: /img/paint5.jpeg
-    legend: "Contact sécurisé"
-  - path: /img/paint6.jpg
-    legend: "Rires garantis"
-  - path: /img/silo.png
-    legend: "Terrain dédié"
-  - path: /img/chantier.png
-    legend: "Ambiance festive"
 conditionsTitle: "Conditions de participation"
 conditionsItems:
   - "8 joueurs minimum recommandés"

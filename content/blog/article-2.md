@@ -1,7 +1,7 @@
 ---
 title: "Bubble Foot Douai : Cohésion, Rires et Défis sportifs"
 description: "À Douai, vivez un bubble foot énergique et accessible. En bulle, on se rentre dedans, on rebondit et on rit, encadré par Team Square pour un moment 100% fun."
-date: 2025-08-11
+date: 2025-08-06T09:00:00.000Z
 coverImage: /img/paint3.jpeg
 summarySeo: "Bubble foot à Douai chez Team Square : sécurité, coaching, bar/restauration, tournée offerte et code TS20. Parfait pour EVG/EVJF, anniversaires, familles et entreprises."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Bubble Foot à Douai : le team building qui fait mouche"
 description: "Fédérez vos équipes à Douai avec une session de bubble foot. Défis ludiques, objectifs RH clairs et ambiance survoltée dans un cadre multi-activités Team Square."
-date: 2025-08-12
+date: 2025-08-07T09:00:00.000Z
 coverImage: /img/paint4.jpg
 summarySeo: "Team building bubble foot à Douai : activité fédératrice, encadrement pro, bar/restauration, tournée offerte, code TS20. Idéal séminaires, afterworks, intégrations."
 ---

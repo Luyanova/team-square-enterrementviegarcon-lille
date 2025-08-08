@@ -1,7 +1,7 @@
 ---
 title: "Bubble Foot Douai : EVG/EVJF, familles, amis, tout le monde !"
 description: "Faites le plein d’émotions à Douai avec le bubble foot. Formats kids/ados/adultes, scénarios fun et accueil chaleureux dans le cadre multi-activités Team Square."
-date: 2025-08-13
+date: 2025-08-08T09:00:00.000Z
 coverImage: /img/paint5.jpeg
 summarySeo: "Bubble foot à Douai : activité festive et sécurisée pour EVG/EVJF, anniversaires et sorties en famille. Tournée offerte, code TS20, bar/restauration et scénarios sur mesure."
 ---
