@@ -1,32 +1,32 @@
 ---
-bookingPageTitle: "Réservez votre Bubble Foot à Lens - Team Square"
-bookingPageDescription: "Choisissez votre créneau, le nombre de joueurs et lancez votre session de bubble foot à Lens. Encadrement pro et ambiance 100% fun chez Team Square."
+bookingPageTitle: "Réservez votre Lancer de Hache à Douai - Team Square"
+bookingPageDescription: "Choisissez votre créneau, le nombre de participants et vivez une session de lancer de hache à Douai. Encadrement pro et ambiance 100% fun chez Team Square."
 bookingPageImage: /img/paint6.png
-contactPageTitle: "Contactez l'équipe Bubble Foot Lens - Team Square"
-contactPageDescription: "Besoin d'un conseil sur le bubble foot à Lens ? Nous vous aidons à créer l'événement parfait : amis, familles, EVG, entreprises."
+contactPageTitle: "Contactez l'équipe Lancer de Hache Douai - Team Square"
+contactPageDescription: "Besoin d'un conseil sur le lancer de hache à Douai ? Nous vous aidons à créer l'événement parfait : amis, familles, EVG, entreprises."
 contactPageImage: /img/paint6.png
-blogIndexPageTitle: "Blog Bubble Foot Lens - Conseils & Actus Team Square"
-blogIndexPageDescription: "Découvrez nos guides et idées pour un bubble foot réussi à Lens : préparation, sécurité, formats de jeu, inspirations d'événements."
+blogIndexPageTitle: "Blog Lancer de Hache Douai - Conseils & Actus Team Square"
+blogIndexPageDescription: "Découvrez nos guides et idées pour un lancer de hache réussi à Douai : préparation, sécurité, formats de jeu, inspirations d'événements."
 blogIndexPageImage: /img/paint6.png
 keywords:
-  - bubble foot Lens
-  - activité Lens
-  - Team Square Lens
-  - foot bulle Lens
-  - sortie groupe Lens
-  - anniversaire enfant Lens
-  - EVG Lens
-  - EVJF Lens
-  - team building Lens
-  - activité entreprise Lens
-  - sport fun Lens
-  - privatisation Lens
-  - bar Lens
-  - multi-activités Lens
-  - loisirs Lens
-  - activité famille Lens
-  - activité originale Lens
-  - tournoi bubble foot Lens
-  - location bubble foot Lens
-  - sécurité bubble foot Lens
+  - lancer de hache Douai
+  - activité Douai
+  - Team Square Douai
+  - hache Douai
+  - sortie groupe Douai
+  - anniversaire adulte Douai
+  - EVG Douai
+  - EVJF Douai
+  - team building Douai
+  - activité entreprise Douai
+  - sport insolite Douai
+  - privatisation Douai
+  - bar Douai
+  - multi-activités Douai
+  - loisirs Douai
+  - activité famille Douai
+  - activité originale Douai
+  - tournoi lancer de hache Douai
+  - location lancer de hache Douai
+  - sécurité lancer de hache Douai
 ---

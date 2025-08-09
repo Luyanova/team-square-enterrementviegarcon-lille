@@ -1,35 +1,35 @@
 ---
-title: "Bubble Foot à Lens : fun, sport et convivialité"
-titleSeo: "Team Square Lens : Bubble Foot et activités de groupe"
-descriptionSeo: "À Lens, découvrez le bubble foot by Team Square : matchs rythmés, sécurité, bar/restauration et 22 activités sur place. EVG, familles, entreprises."
-description: "Envie d’un moment inoubliable à Lens ? Le bubble foot rassemble amis, familles et équipes autour d’un jeu accessible, drôle et sécurisé. Rires, rebonds et souvenirs garantis !"
-moreLink: "https://team-square.fr/activiteTeamSquare/bubble-foot/"
+title: "Lancer de Hache à Douai : adrénaline, fun et convivialité"
+titleSeo: "Team Square Douai : Lancer de Hache et activités de groupe"
+descriptionSeo: "À Douai, découvrez le lancer de hache by Team Square : sessions encadrées, sécurité, bar/restauration et multi-activités. EVG, familles, entreprises."
+description: "Envie d’une expérience unique à Douai ? Le lancer de hache rassemble amis, collègues et familles autour d’un défi original, ludique et sécurisé. Sensations fortes, rires et souvenirs garantis !"
+moreLink: "https://team-square.fr/activiteTeamSquare/lancer-de-hache/"
 image: /img/paint3.jpeg
-CtaTitle: "Prêts pour une session de bubble foot mémorable à Lens ?"
-CtaText: "Contactez-nous pour organiser votre événement sur-mesure ou pour toute question sur nos formules bubble foot à Lens."
+CtaTitle: "Prêts pour une session de lancer de hache inoubliable à Douai ?"
+CtaText: "Contactez-nous pour organiser votre événement sur-mesure ou pour toute question sur nos formules lancer de hache à Douai."
 CtaButton: "Réservez votre partie"
-footerTitle: "Le bubble foot, l’activité qui rassemble à Lens"
-footerText: "Chez Team Square Lens, on joue, on rit et on repart avec des souvenirs solides. Encadrement pro, scénarios variés, bar/restauration et tournée offerte pour chaque groupe."
-informationTitle: "Infos pratiques – Bubble foot Lens"
-numberPlayers: "8"
-minimalAge: "10"
-informationDescription: "Notre complexe de Lens vous accueille pour des sessions de bubble foot dynamiques, accessibles et 100% encadrées. Composez votre journée idéale grâce à nos 22 activités sur place, notre bar et nos espaces conviviaux."
+footerTitle: "Le lancer de hache, l’activité qui rassemble à Douai"
+footerText: "Chez Team Square Douai, on se challenge, on rit et on repart avec des souvenirs mémorables. Encadrement pro, scénarios variés, bar/restauration et tournée offerte pour chaque groupe."
+informationTitle: "Infos pratiques – Lancer de hache Douai"
+numberPlayers: "6"
+minimalAge: "16"
+informationDescription: "Notre complexe de Douai vous accueille pour des sessions de lancer de hache dynamiques, accessibles et 100% encadrées. Composez votre journée idéale grâce à nos multi-activités sur place, notre bar et nos espaces conviviaux."
 priceGrid:
   - - 45mins
-    - 20€
-    - 25€
+    - 18€
+    - 22€
   - - 60mins
-    - 25€
-    - 30€
+    - 22€
+    - 27€
   - - 90mins
-    - 35€
-    - 40€
+    - 30€
+    - 36€
 outside: false
-outsideText: "Animation bubble foot possible sur site externe sur devis."
+outsideText: "Animation lancer de hache possible sur site externe sur devis."
 conditionsTitle: "Conditions de participation"
 conditionsItems:
-  - "8 joueurs minimum recommandés"
-  - "À partir de 10 ans (format kids dédié)"
+  - "6 joueurs minimum recommandés"
+  - "À partir de 16 ans (format découverte possible pour ados)"
   - "Chaussures fermées obligatoires ; retirer bijoux et objets saillants"
 optionsTitle: "Options disponibles"
 optionsItems:
