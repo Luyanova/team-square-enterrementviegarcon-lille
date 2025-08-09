@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://lancerdehaches-douai.fr',
+    url: 'https://lancerdehaches-lens.fr',
   },
   vite: {
     plugins: [
@@ -25,9 +25,9 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio',
       gitInfo: {
-        name: 'team-square-lancerdehaches-douai',
+        name: 'team-square-lancerdehaches-lens',
         owner: 'Luyanova',
-        url: 'https://github.com/Luyanova/team-square-lancerdehaches-douai'
+        url: 'https://github.com/Luyanova/team-square-lancerdehaches-lens'
       }
     }
   }
