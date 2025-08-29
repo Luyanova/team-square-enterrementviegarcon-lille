@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://escapegame-lens.fr',
+    url: 'https://realitevirtuelle-douai.fr',
   },
   vite: {
     plugins: [
@@ -25,9 +25,9 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio',
       gitInfo: {
-        name: 'team-square-escapeGame-lens',
+        name: 'team-square-realitevirtuelle-douai',
         owner: 'Luyanova',
-        url: 'https://github.com/Luyanova/team-square-escapeGame-lens'
+        url: 'https://github.com/Luyanova/team-square-realitevirtuelle-douai'
       }
     }
   }
