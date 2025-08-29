@@ -1,26 +1,26 @@
 ---
-title: "Team Building à Douai : Boostez la Cohésion avec la Réalité Virtuelle"
-description: "À Douai, la réalité virtuelle de Team Square est l'activité idéale pour fédérer vos équipes, briser la glace et créer des souvenirs mémorables."
-date: 2024-05-10T09:00:00.000Z
+title: "Team Building à Douai : Boostez la Cohésion avec le Quiz Game"
+description: "À Douai, le Quiz Game de Team Square est l'activité idéale pour fédérer vos équipes, briser la glace et créer des souvenirs mémorables dans une ambiance fun."
+date: 2024-06-10T09:00:00.000Z
 coverImage: /img/paint4.jpg
-summarySeo: "Team building VR à Douai : activité fédératrice, encadrement pro, bar/restauration, tournée offerte, code TS20. Idéal entreprises, séminaires, afterworks."
+summarySeo: "Team building Quiz Game à Douai : activité fédératrice, animation pro, bar/restauration, tournée offerte, code TS20. Idéal entreprises, séminaires, afterworks."
 ---
 
-### Réalité Virtuelle à Douai : le team building qui fait la différence
+### Quiz Game à Douai : le team building qui fait la différence
 
-Vous cherchez une activité originale pour renforcer la cohésion de vos équipes à Douai ? L'expérience de réalité virtuelle (VR) chez Team Square Douai est la solution parfaite pour créer des liens, stimuler l’esprit d’équipe et offrir à vos collaborateurs un moment de détente hors du commun. Immergés dans des mondes virtuels, vos collègues se découvrent sous un nouveau jour, communiquent et collaborent pour réussir des missions dans une ambiance conviviale et inclusive.
+Vous cherchez une activité originale pour renforcer la cohésion de vos équipes à Douai ? L'expérience Quiz Game chez Team Square Douai est la solution parfaite pour créer des liens, stimuler l’esprit d’équipe et offrir à vos collaborateurs un moment de détente hors du commun. Immergés dans l'ambiance d'un plateau télé, vos collègues se découvrent sous un nouveau jour, communiquent et collaborent pour faire gagner leur équipe dans une atmosphère conviviale et inclusive.
 
 ### Des objectifs RH clairs et mesurables
 
-Chez Team Square Douai, chaque session de VR est pensée pour répondre à vos enjeux d’entreprise : communication, gestion du stress, coopération, leadership et résolution de problèmes. Les scénarios collaboratifs et les temps de débrief permettent de transposer immédiatement les enseignements sur le terrain professionnel. L’activité favorise l’écoute, l’entraide et la prise d’initiative, tout en restant accessible à tous.
+Chez Team Square Douai, chaque partie de Quiz Game est pensée pour répondre à vos enjeux d’entreprise : communication, gestion du temps, coopération, leadership et prise de décision. Les scénarios collaboratifs et les temps de débrief permettent de transposer immédiatement les enseignements sur le terrain professionnel. L’activité favorise l’écoute, l’entraide et la prise d’initiative, tout en restant accessible à tous.
 
 ### Un déroulé fluide et professionnel
 
-L’accueil chez Team Square Douai est calibré pour les groupes d’entreprise. Après un briefing immersif et la prise en main de l'équipement, place à l'aventure ! Nos maîtres du jeu adaptent leur accompagnement à l'effectif and aux objectifs. Les jeux en simultané permettent de maintenir l’énergie et l’inclusion, chacun trouvant naturellement sa place. Les formats sont idéaux pour équilibrer challenge et fun.
+L’accueil chez Team Square Douai est calibré pour les groupes d’entreprise. Après un briefing dynamique et la prise en main des buzzers, place à la compétition ! Nos maîtres du jeu adaptent leur animation à l'effectif and aux objectifs. Les parties en simultané permettent de maintenir l’énergie et l’inclusion, chacun trouvant naturellement sa place. Les formats sont idéaux pour équilibrer challenge et fun.
 
-### Immersion, confort et inclusivité
+### Ambiance, compétition et inclusivité
 
-Les expériences sont adaptées à tous les niveaux ; le cadre de jeu et les consignes garantissent une expérience positive. Nous invitons les participants à venir avec leur bonne humeur et leur esprit d'équipe. Notre équipe veille au respect des règles et adapte le rythme si besoin. L’objectif : une expérience positive pour tous, quelles que soient les aptitudes de chacun.
+Les thèmes sont adaptés à tous les niveaux ; le cadre de jeu et les consignes garantissent une expérience positive. Nous invitons les participants à venir avec leur bonne humeur et leur esprit d'équipe. Notre équipe veille au respect des règles et adapte le rythme si besoin. L’objectif : une expérience positive pour tous, quelles que soient les connaissances de chacun.
 
 ### L’avantage Team Square Douai : un lieu unique, multi-activités
 
@@ -28,12 +28,11 @@ Votre séminaire se poursuit sans rupture : salle de débrief au bar, tournée o
 
 ### Formats recommandés selon l’effectif
 
--   **2 à 8 personnes** : une mission VR en coopération ou compétition de 60 minutes.
--   **8 à 16 personnes** : deux équipes en parallèle sur deux expériences différentes.
--   **16 à 32 personnes** : format tournoi sur plusieurs postes, avec rotations.
--   **32+ personnes** : parcours multi-activités sur demi-journée, avec la VR comme temps fort.
+-   **4 à 12 personnes** : une partie de Quiz Game intense de 60 ou 90 minutes.
+-   **12 à 24 personnes** : deux équipes en parallèle sur deux arènes de jeu.
+-   **24+ personnes** : format tournoi sur plusieurs sessions, avec rotations et grande finale.
 
-Nous fournissons un devis simple et nous définissons avec vous les critères de réussite (cohésion, fun, mixité des services…).
+Nous fournissons un devis simple et nous définissons avec vous les critères de réussite (cohésion, fun, mixité des services…). Nous pouvons même intégrer des questions personnalisées sur votre entreprise !
 
 ### Témoignages et résultats observés
 
@@ -45,4 +44,4 @@ Cap sur le bar pour la tournée offerte, un snack et un temps d’échange. Nous
 
 ### Passez à l’action
 
-Confiez-nous votre prochain team building à Douai. Nous alignons le format sur vos objectifs, gérons la logistique et vous garantissons un souvenir commun durable. Pour plus d’informations, consultez la page activité Team Square Réalité Virtuelle.
+Confiez-nous votre prochain team building à Douai. Nous alignons le format sur vos objectifs, gérons la logistique et vous garantissons un souvenir commun durable. Pour plus d’informations, consultez la page activité Team Square Quiz Game.

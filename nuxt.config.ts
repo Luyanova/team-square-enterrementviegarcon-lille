@@ -25,9 +25,9 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio',
       gitInfo: {
-        name: 'team-square-realitevirtuelle-douai',
+        name: 'team-square-team-square-quiz-douai',
         owner: 'Luyanova',
-        url: 'https://github.com/Luyanova/team-square-realitevirtuelle-douai'
+        url: 'https://github.com/Luyanova/team-square-team-square-quiz-douai'
       }
     }
   }

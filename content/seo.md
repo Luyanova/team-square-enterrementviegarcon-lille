@@ -1,19 +1,19 @@
 ---
-bookingPageTitle: "Réservez votre session de Réalité Virtuelle à Douai - Team Square"
-bookingPageDescription: "Choisissez votre expérience VR, votre créneau et vivez une aventure immersive à Douai. Encadrement pro et ambiance 100% fun chez Team Square."
+bookingPageTitle: "Réservez votre Quiz Game à Douai - Team Square"
+bookingPageDescription: "Choisissez votre thème, votre créneau et vivez un quiz immersif à Douai. Ambiance 100% fun et compétition amicale chez Team Square."
 bookingPageImage: /img/paint6.png
-contactPageTitle: "Contactez l'équipe Réalité Virtuelle Douai - Team Square"
-contactPageDescription: "Besoin d'un conseil sur notre offre de réalité virtuelle à Douai ? Nous vous aidons à créer l'événement parfait : amis, familles, EVG, entreprises."
+contactPageTitle: "Contactez l'équipe Quiz Game Douai - Team Square"
+contactPageDescription: "Un conseil sur nos quiz à Douai ? Nous vous aidons à créer l'événement parfait pour vos amis, familles, EVG ou entreprises."
 contactPageImage: /img/paint6.png
-blogIndexPageTitle: "Blog Réalité Virtuelle Douai - Conseils & Actus Team Square"
-blogIndexPageDescription: "Découvrez nos guides et idées pour une session de VR réussie à Douai : préparation, choix des jeux, inspirations d'événements."
+blogIndexPageTitle: "Blog Quiz Game Douai - Conseils & Actus Team Square"
+blogIndexPageDescription: "Découvrez nos guides et idées pour un quiz réussi à Douai : préparation, choix des thèmes, inspirations d'événements."
 blogIndexPageImage: /img/paint6.png
 keywords:
-  - réalité virtuelle Douai
-  - VR Douai
+  - quiz Douai
+  - quiz game Douai
   - activité Douai
   - Team Square Douai
-  - jeu VR Douai
+  - jeu quiz Douai
   - sortie groupe Douai
   - anniversaire adulte Douai
   - EVG Douai
@@ -28,6 +28,6 @@ keywords:
   - activité famille Douai
   - activité originale Douai
   - jeux multijoueur Douai
-  - expérience VR Douai
-  - meilleur centre VR Douai
+  - expérience quiz Douai
+  - meilleur quiz game Douai
 ---
