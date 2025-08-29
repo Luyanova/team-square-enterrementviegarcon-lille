@@ -1,38 +1,35 @@
 ---
-title: "Lancer de Hache à Lens : adrénaline, fun et convivialité"
-titleSeo: "Team Square Lens : Lancer de Hache et activités de groupe"
-descriptionSeo: "À Lens, découvrez le lancer de hache by Team Square : sessions encadrées, sécurité, bar/restauration et multi-activités. EVG, familles, entreprises."
-description: "Envie d’une expérience unique à Lens ? Le lancer de hache rassemble amis, collègues et familles autour d’un défi original, ludique et sécurisé. Sensations fortes, rires et souvenirs garantis !"
-moreLink: "https://team-square.fr/activiteTeamSquare/lancer-de-hache/"
+title: "Cube Challenge à Lens : l’Escape Game nouvelle génération"
+titleSeo: "Team Square Lens : Escape Game Cube Challenge et activités de groupe"
+descriptionSeo: "À Lens, découvrez le Cube Challenge, un escape game immersif by Team Square. Missions, énigmes, bar/restauration et multi-activités. EVG, familles, entreprises."
+description: "Envie d’une expérience immersive à Lens ? Le Cube Challenge rassemble amis, collègues et familles autour d’énigmes stimulantes dans un concept d’escape game unique. Réflexion, coopération et souvenirs garantis !"
+moreLink: "https://team-square.fr/activiteTeamSquare/cube-challenge/"
 image: /img/paint3.jpeg
-CtaTitle: "Prêts pour une session de lancer de hache inoubliable à Lens ?"
-CtaText: "Contactez-nous pour organiser votre événement sur-mesure ou pour toute question sur nos formules lancer de hache à Lens."
+CtaTitle: "Prêts pour une session d'escape game inoubliable à Lens ?"
+CtaText: "Contactez-nous pour organiser votre événement sur-mesure ou pour toute question sur nos formules escape game à Lens."
 CtaButton: "Réservez votre partie"
-footerTitle: "Le lancer de hache, l’activité qui rassemble à Lens"
-footerText: "Chez Team Square Lens, on se challenge, on rit et on repart avec des souvenirs mémorables. Encadrement pro, scénarios variés, bar/restauration et tournée offerte pour chaque groupe."
-informationTitle: "Infos pratiques – Lancer de hache Lens"
-numberPlayers: "6"
-minimalAge: "16"
-informationDescription: "Notre complexe de Lens vous accueille pour des sessions de lancer de hache dynamiques, accessibles et 100% encadrées. Composez votre journée idéale grâce à nos multi-activités sur place, notre bar et nos espaces conviviaux."
+footerTitle: "L'escape game qui rassemble à Lens"
+footerText: "Chez Team Square Lens, on réfléchit, on rit et on repart avec des souvenirs mémorables. Encadrement pro, scénarios immersifs, bar/restauration et tournée offerte pour chaque groupe."
+informationTitle: "Infos pratiques – Escape Game Lens"
+numberPlayers: "2-6"
+minimalAge: "12"
+informationDescription: "Notre complexe de Lens vous accueille pour des sessions d'escape game immersives, accessibles et 100% encadrées. Composez votre journée idéale grâce à nos multi-activités sur place, notre bar et nos espaces conviviaux."
 priceGrid:
-  - - 45mins
-    - 18€
-    - 22€
   - - 60mins
-    - 22€
-    - 27€
-  - - 90mins
+    - 25€
     - 30€
-    - 36€
+  - - 75mins
+    - 30€
+    - 35€
 outside: false
-outsideText: "Animation lancer de hache possible sur site externe sur devis."
+outsideText: "Animation escape game mobile possible sur site externe sur devis."
 conditionsTitle: "Conditions de participation"
 conditionsItems:
-  - "6 joueurs minimum recommandés"
-  - "À partir de 16 ans (format découverte possible pour ados)"
-  - "Chaussures fermées obligatoires ; retirer bijoux et objets saillants"
+  - "2 à 6 joueurs par mission"
+  - "À partir de 12 ans (accompagné d'un adulte)"
+  - "Aucune aptitude physique requise"
 optionsTitle: "Options disponibles"
 optionsItems:
-  - "Snack/boisson après match au bar"
-  - "Privatisation de créneau et mini-tournoi"
+  - "Snack/boisson après mission au bar"
+  - "Privatisation et organisation de tournois multi-équipes"
 ---

@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://lancerdehaches-lens.fr',
+    url: 'https://escapegame-lens.fr',
   },
   vite: {
     plugins: [
@@ -25,9 +25,9 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio',
       gitInfo: {
-        name: 'team-square-lancerdehaches-lens',
+        name: 'team-square-escapeGame-lens',
         owner: 'Luyanova',
-        url: 'https://github.com/Luyanova/team-square-lancerdehaches-lens'
+        url: 'https://github.com/Luyanova/team-square-escapeGame-lens'
       }
     }
   }
