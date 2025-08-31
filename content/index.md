@@ -1,36 +1,37 @@
 ---
-title: "Quiz Game à Lens : Le jeu de quiz immersif par Team Square"
-titleSeo: "Team Square Lens : Quiz Game et activités de groupe"
-descriptionSeo: "À Lens, défiez vos amis avec le Quiz Game de Team Square. Buzzers, plateaux TV, bar/restauration. Parfait pour EVG, familles, et entreprises."
-description: "Vivez une expérience unique à Lens ! Le Quiz Game de Team Square vous plonge dans une ambiance de plateau TV. Stratégie, connaissance et fous rires garantis pour tous !"
-moreLink: "https://team-square.fr/activiteTeamSquare/quizz/"
+title: "Mariage Hauts-de-France : Le lieu unique pour votre union par Team Square"
+titleSeo: "Team Square Hauts-de-France : Organisation de mariage et événements"
+descriptionSeo: "Organisez votre mariage de rêve dans les Hauts-de-France avec Team Square. Lieu de réception unique, formules sur-mesure, bar, et activités pour un jour J inoubliable."
+description: "Vivez un mariage d'exception dans les Hauts-de-France ! Team Square vous propose un lieu unique et des formules clé en main pour célébrer votre amour. Organisation, ambiance et souvenirs mémorables garantis."
+moreLink: "https://team-square.fr/eventsTeamSquare/mariage/"
 image: /img/paint3.jpeg
-CtaTitle: "Prêts pour une compétition survoltée dans notre Quiz Game à Lens ?"
-CtaText: "Contactez-nous pour organiser votre session de Quiz Game sur-mesure ou pour toute question sur nos formules à Lens."
+CtaTitle: "Prêts à organiser le mariage de vos rêves dans les Hauts-de-France ?"
+CtaText: "Contactez-nous pour une visite, un devis personnalisé ou pour toute question sur nos formules mariage dans les Hauts-de-France."
 CtaButton: "Réservez votre partie"
-footerTitle: "Le Quiz Game qui rassemble à Lens"
-footerText: "Chez Team Square Lens, vivez des parties de quiz inoubliables. Ambiance plateau TV, buzzers, bar/restauration et tournée offerte pour chaque groupe."
-informationTitle: "Infos pratiques – Quiz Game Lens"
-numberPlayers: "4-12"
-minimalAge: "12"
-informationDescription: "Notre centre à Lens vous accueille pour des sessions de Quiz Game survoltées. Découvrez nos thèmes variés, notre bar et nos espaces conviviaux pour un moment parfait."
+footerTitle: "Le lieu qui sublime votre mariage dans les Hauts-de-France"
+footerText: "Chez Team Square Hauts-de-France, vivez un mariage sur-mesure. Lieu de charme, animations, bar/restauration et une organisation pensée pour vous."
+informationTitle: "Infos pratiques – Mariage Hauts-de-France"
+numberPlayers: "50-200"
+minimalAge: "0"
+informationDescription: "Notre lieu de réception dans les Hauts-de-France vous accueille pour votre mariage. Découvrez nos espaces modulables, notre service traiteur et nos animations pour un événement inoubliable."
 priceGrid:
-  - - 60mins
-    - 20€
-    - 25€
-  - - 90mins
-    - 28€
-    - 32€
-outside: false
-outsideText: "Animation Quiz Game mobile possible sur site externe sur devis."
-conditionsTitle: "Conditions de participation"
+  - - "Formule Jour J"
+    - "sur devis"
+    - "sur devis"
+  - - "Formule Week-end"
+    - "sur devis"
+    - "sur devis"
+outside: true
+outsideText: "Organisation de votre vin d'honneur ou cérémonie laïque en extérieur possible."
+conditionsTitle: "Nos engagements pour votre mariage"
 conditionsItems:
-  - "4 à 12 joueurs par session"
-  - "À partir de 12 ans"
-  - "Aucune connaissance encyclopédique requise, juste de la bonne humeur !"
-optionsTitle: "Options disponibles"
+  - "Un interlocuteur unique pour toute l'organisation"
+  - "Des prestataires de confiance et de qualité"
+  - "Une personnalisation complète de votre événement"
+optionsTitle: "Options disponibles pour votre mariage"
 optionsItems:
-  - "Snack/boisson après la session au bar"
-  - "Privatisation et organisation de tournois"
-  - "Personnalisation de questions pour les entreprises"
+  - "Service traiteur et bar personnalisés"
+  - "Animations pour enfants et adultes"
+  - "Décoration florale et scénographie"
+  - "Coordination du jour J"
 ---
