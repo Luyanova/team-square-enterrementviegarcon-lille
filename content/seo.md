@@ -1,33 +1,32 @@
 ---
-bookingPageTitle: "Réservez votre mariage dans les Hauts-de-France - Team Square"
-bookingPageDescription: "Choisissez votre formule, votre date et vivez un mariage inoubliable dans les Hauts-de-France. Ambiance 100% festive et organisation sur-mesure chez Team Square."
+bookingPageTitle: "Réservez votre EVG à Lille - Team Square"
+bookingPageDescription: "Choisissez votre pack, votre date et vivez un enterrement de vie de garçon mémorable à Lille. Ambiance 100% fun et organisation sur-mesure chez Team Square."
 bookingPageImage: /img/paint6.png
-contactPageTitle: "Contactez l'équipe Mariage Hauts-de-France - Team Square"
-contactPageDescription: "Un conseil sur nos formules mariage dans les Hauts-de-France ? Nous vous aidons à créer l'événement parfait pour votre union, EVG ou EVJF."
+contactPageTitle: "Contactez l'équipe EVG Lille - Team Square"
+contactPageDescription: "Un conseil sur nos formules EVG à Lille ? Nous vous aidons à organiser l'événement parfait pour le futur marié et sa team."
 contactPageImage: /img/paint6.png
-blogIndexPageTitle: "Blog Mariage Hauts-de-France - Conseils & Actus Team Square"
-blogIndexPageDescription: "Découvrez nos guides et idées pour un mariage réussi dans les Hauts-de-France : organisation, choix des thèmes, inspirations."
+blogIndexPageTitle: "Blog EVG Lille - Idées, Conseils & Actus Team Square"
+blogIndexPageDescription: "Découvrez nos guides et idées pour un EVG réussi à Lille : organisation, choix des activités, inspirations pour une journée de folie."
 blogIndexPageImage: /img/paint6.png
 keywords:
-  - mariage Hauts-de-France
-  - salle de mariage Hauts-de-France
-  - organisation mariage Hauts-de-France
-  - Team Square mariage
-  - lieu de réception Hauts-de-France
-  - mariage original Hauts-de-France
-  - EVG Hauts-de-France
-  - EVJF Hauts-de-France
-  - wedding planner Hauts-de-France
-  - mariage clé en main
-  - lieu atypique mariage
-  - bar mariage
-  - multi-activités mariage
-  - loisirs Hauts-de-France
-  - mariage Lille
-  - mariage Arras
-  - mariage Amiens
-  - mariage Valenciennes
-  - mariage Dunkerque
-  - privatisation salle mariage
-  - meilleur lieu mariage Hauts-de-France
+  - EVG Lille
+  - enterrement vie de garçon Lille
+  - activité EVG Lille
+  - idée EVG Lille
+  - Team Square Lille
+  - organiser EVG Lille
+  - EVJF Lille
+  - week-end EVG Lille
+  - pack EVG Lille
+  - multi-activités Lille
+  - loisirs Lille
+  - bar Lille
+  - sortie entre amis Lille
+  - animation EVG Lille
+  - défi EVG Lille
+  - futur marié Lille
+  - meilleure activité EVG Lille
+  - EVG pas cher Lille
+  - agence événementielle Lille
+  - privatisation salle EVG Lille
 ---

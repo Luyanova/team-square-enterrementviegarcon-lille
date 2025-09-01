@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://quiz-lens.fr',
+    url: 'https://enterrementviegarcon-lille.fr',
   },
   vite: {
     plugins: [
@@ -25,10 +25,9 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio',
       gitInfo: {
-        name: 'team-square-quiz-lens',
+        name: 'team-square-lille-hdf',
         owner: 'Luyanova',
-        url: 'https://github.com/Luyanova/team-square-quiz-lens
-'
+        url: 'https://github.com/Luyanova/team-square-lille-hdf.git'
 
       }
     }
