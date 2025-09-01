@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
   ],
   site: {
-    url: 'https://',
+    url: 'https://quiz-lens.fr',
   },
   vite: {
     plugins: [
@@ -25,9 +25,10 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio',
       gitInfo: {
-        name: 'team-square-mariage-hdf',
+        name: 'team-square-quiz-lens',
         owner: 'Luyanova',
-        url: 'https://github.com/Luyanova/team-square-mariage-hdf'
+        url: 'https://github.com/Luyanova/team-square-quiz-lens
+'
 
       }
     }
