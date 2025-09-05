@@ -13,8 +13,9 @@
         <div class="flex flex-col gap-4">
           <div class="flex flex-col gap-4 sm:flex-row">
 
+            <div>
               <ButtonPrimary to="https://team-square.fr/reservation-4escape/">Réserver l'activité</ButtonPrimary>
-
+            </div>
             <div>
               <ButtonSecondary v-if="data?.moreLink" :to="data.moreLink">En savoir plus</ButtonSecondary>
             </div>

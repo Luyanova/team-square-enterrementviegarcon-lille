@@ -24,52 +24,7 @@
       <ButtonPrimary to="https://team-square.fr/category/activites/">Voir toutes les activités</ButtonPrimary>
     </div>
     <div v-if="data.galleryImages && data.galleryImages.length > 0" class="border-t border-grey-400 h-[1px] " />
-    <div class="flex flex-col gap-4">
-      <h3 class="text-2xl font-bold">
-        Tarifs
-      </h3>
-      <div class="w-full overflow-hidden rounded-lg border border-gray-200">
-        <table class="w-full border-collapse">
-          <thead>
-            <tr class="bg-primary-500">
-              <th class="w-1/3 border-b border-gray-200 px-4 py-3 text-left font-medium bg-white" />
-              <th class="w-1/3 border-b border-gray-200 px-4 py-3 text-center font-medium text-white">
-                Autres jours
-              </th>
-              <th class="w-1/3 border-b border-gray-200 px-4 py-3 text-center font-medium text-white">
-                Samedi
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr v-for="(row, index) in data.priceGrid" :key="index">
-              <td class="border-b border-r border-gray-200 px-4 py-3">
-                {{ row[0] }}
-              </td>
-              <td class="border-b border-r border-gray-200 px-4 py-3 text-center">
-                {{ row[1] }}
-              </td>
-              <td class="border-b border-gray-200 px-4 py-3 text-center">
-                {{ row[2] }}
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <div v-if="data.outside" class="flex items-center gap-2 domicile">
-        <Icon name="uil:check-circle" class="text-green-500 text-4xl" />
-        <div class="flex flex-col">
-          <p class="text-grey-500">
-            {{ data.outsideText }}
-          </p>
-          <p class="text-primary-500">
-            <NuxtLink to="/contact" class="underline">
-              Demander un devis
-            </NuxtLink>
-          </p>
-        </div>
-      </div>
-    </div>
+
     <div v-if="data.galleryImages && data.galleryImages.length > 0" class="border-t border-grey-400 h-[1px] priceDivider" />
     <div v-if="data.galleryImages && data.galleryImages.length > 0" class="flex flex-col gap-4">
       <h3 v-if="data.imageSectionTitle" class="text-2xl font-bold">
